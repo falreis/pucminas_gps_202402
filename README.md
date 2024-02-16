@@ -15,3 +15,7 @@ Escreva um ou dois parágrafos resumindo o objetivo do seu projeto.
 
 ## Instruções para uso
 Coloque aqui as instruções para acessar a página inicial do projeto (caminho completo do arquivo).
+
+## Apresentação do Trabalho
+
+[![Imagem do Trabalho](https://i3.ytimg.com/vi/unq_cZ6NOwk/maxresdefault.jpg)](https://www.youtube.com/watch?v=unq_cZ6NOwk)
