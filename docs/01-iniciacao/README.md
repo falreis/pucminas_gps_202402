@@ -3,10 +3,6 @@
 
 ......  COLOQUE AQUI O SEU TEXTO ......
 
-`CURSO` 
-
-......  COLOQUE AQUI O SEU TEXTO ......
-
 ## Participantes
 
 ......  COLOQUE AQUI O SEU TEXTO ......
