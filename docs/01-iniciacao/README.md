@@ -1,36 +1,24 @@
-# Informações do Projeto
-`TÍTULO DO PROJETO`  
+# Iniciação
 
-......  COLOQUE AQUI O SEU TEXTO ......
+> Descreva brevemente as atividades que serão detalhadas nesta fase.
 
-## Participantes
-
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Inclua a lista dos membros da equipe com seus nomes completos.
->
-> Os membros do grupo são: 
-> - Fulano da Silva
-> - Ciclano Albuquerque
 
 # Estrutura do Documento
 
-- [Informações do Projeto](#informações-do-projeto)
-  - [Participantes](#participantes)
-- [Estrutura do Documento](#estrutura-do-documento)
+- [Fase de Iniciação](#iniciação)
 - [Introdução](#introdução)
   - [Problema](#problema)
   - [Objetivos](#objetivos)
   - [Público-Alvo](#público-alvo)
 - [Especificações do Projeto](#especificações-do-projeto)
-  - [Personas](#personas)
+  - [Stakeholders](#stakeholders)
+  - [Personas](#stakeholders)
   - [Histórias de Usuários](#histórias-de-usuários)
   - [Requisitos](#requisitos)
 - [Projeto da Solução](#projeto-da-solução)
   - [Wireframes](#wireframes)
   - [Mapa de navegação](#mapa-de-navegação)
-- [Conclusões](#avaliação-da-aplicação)
-  
+
 # Introdução
 
 ## Problema
@@ -85,6 +73,17 @@
 > documento, enumerando as técnicas e/ou ferramentas utilizadas para
 > realizar a especificações do projeto
 
+## Stakeholders
+
+......  COLOQUE AQUI O SEU TEXTO ......
+
+> Relacione as partes interessadas no seu projeto. 
+> Você deve descrever as partes interessadas e indicar qual o nível de influência em relação ao projeto.
+
+> **Exemplo de Mapa de Stakeholders**
+> ![Exemplo de Mapa de Stakeholders](/images/mapa_stakeholders.png)
+
+
 ## Personas
 
 ......  COLOQUE AQUI O SEU TEXTO ......
@@ -103,7 +102,7 @@
 > - [Hotmart](https://blog.hotmart.com/pt-br/como-criar-persona-negocio/)
 > 
 > **Exemplo de Ficha**
-> ![Exemplo de Persona](images/persona.png)
+> ![Exemplo de Persona](/images/persona.png)
  
 
 ## Histórias de Usuários
@@ -165,7 +164,7 @@ A tabela que segue apresenta os requisitos funcionais do projeto.
 > 
 > **Exemplo**:
 > 
-> ![Exemplo de Link para Wireframe](images/wireframe-example.png)
+> ![Exemplo de Link para Wireframe](/images/wireframe-example.png)
 
 
 ## Mapa de navegação
@@ -177,14 +176,6 @@ A tabela que segue apresenta os requisitos funcionais do projeto.
 
 
 > **Exemplo de Diagrama (opcional, pode ser em texto)**
-> ![Exemplo de Diagrama de Navegação](images/userflow.jpg)
-
-# Conclusões
-
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Finalize escrevendo um ou dois parágrafos para relembrar o objetivo do projeto, 
-> o que foi possível alcançar e o que ficou para um trabalho futuro, e relembrando
-> as principais dificuldes encontradas e como foi possível contorná-las. 
+> ![Exemplo de Diagrama de Navegação](/images/userflow.jpg)
 
 

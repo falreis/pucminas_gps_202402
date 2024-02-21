@@ -16,9 +16,11 @@ Escreva um ou dois parágrafos resumindo o objetivo do seu projeto.
 
 * [Felipe A. L. Reis](https://github.com/falreis)
 
-## Instruções para uso
+## Gerenciamento do Projeto
 
-Coloque aqui as instruções para acessar a página inicial do projeto (caminho completo do arquivo).
+Adicione aqui informações sobre o projeto que será gerenciado. 
+
+Indique informações importantes sobre o projeto.
 
 Gerenciamento do Projeto:
 1. [Iniciação](docs/01-iniciacao/README.md)
@@ -27,8 +29,17 @@ Gerenciamento do Projeto:
 4. [Monitoramento](docs/04-monitoramento/README.md)
 5. [Encerramento](docs/05-encerramento/README.md)
 
+Link importante: https://www.gestaodeprojeto.info/8documentos
+
 ## Apresentação do Trabalho
 
 Adicione aqui o vídeo explicativo do trabalho.
+Utilize a estrutura (link) abaixo para apresentação do vídeo.
 
-[![Imagem do Trabalho](https://i3.ytimg.com/vi/unq_cZ6NOwk/maxresdefault.jpg)](https://www.youtube.com/watch?v=unq_cZ6NOwk)
+[![Imagem do Trabalho](images/pucminas-video-youtube.jpg)](https://www.youtube.com/watch?v=unq_cZ6NOwk)
+
+## Informações Adicionais
+
+Inclua aqui informações extra sobre o projeto.
+
+Caso não existam informações extras, remova a seção.
