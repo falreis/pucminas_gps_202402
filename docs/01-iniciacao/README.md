@@ -2,7 +2,6 @@
 
 > Descreva brevemente as atividades que serão detalhadas nesta fase.
 
-
 # Estrutura do Documento
 
 - [Fase de Iniciação](#iniciação)
@@ -11,13 +10,14 @@
   - [Objetivos](#objetivos)
   - [Público-Alvo](#público-alvo)
 - [Especificações do Projeto](#especificações-do-projeto)
-  - [Stakeholders](#stakeholders)
+  - [Partes Interessadas](#partes-interessadas)
   - [Personas](#stakeholders)
   - [Histórias de Usuários](#histórias-de-usuários)
   - [Requisitos](#requisitos)
 - [Projeto da Solução](#projeto-da-solução)
   - [Wireframes](#wireframes)
   - [Mapa de navegação](#mapa-de-navegação)
+- [Artefatos](artefatos/README.md)
 
 # Introdução
 
@@ -73,7 +73,7 @@
 > documento, enumerando as técnicas e/ou ferramentas utilizadas para
 > realizar a especificações do projeto
 
-## Stakeholders
+## Partes Interessadas
 
 ......  COLOQUE AQUI O SEU TEXTO ......
 
@@ -83,6 +83,8 @@
 > **Exemplo de Mapa de Stakeholders**
 > ![Exemplo de Mapa de Stakeholders](/images/mapa_stakeholders.png)
 
+> Você deve preencher o seguinte documento:
+- [Registro de Partes Interessadas](artefatos/registro-partes-interessadas.xlsx)
 
 ## Personas
 
