@@ -24,7 +24,7 @@
   - [Ferramentas](#ferramentas)
   - [Controle de Versão](#controle-de-versão)
 - [Termo de Abertura do Projeto (TAP)](#termo-de-abertura-do-projeto-tap)
-- [Opcional](#opcional)
+- [*Opcional*](#opcional)
   - [Canvas do Projeto](#canvas-do-projeto)
   - [Viabilidade Econômica](#viabilidade-econômica)
 
@@ -214,12 +214,12 @@ A tabela que segue apresenta os requisitos funcionais do projeto.
 
 ......  COLOQUE AQUI O SEU TEXTO - SIGA O EXEMPLO DA TABELA ABAIXO  ......
 
-| Ambiente  | Plataforma              |Link de Acesso |
-|-----------|-------------------------|---------------|
-|Processo de Design Thinkgin  | Miro |  https://miro.com/XXXXXXX | 
-|Repositório de código | GitHub | https://github.com/XXXXXXX | 
-|Hospedagem do site | Heroku |  https://XXXXXXX.herokuapp.com | 
-|Protótipo Interativo | MavelApp ou Figma | https://figma.com/XXXXXXX | 
+| Ambiente              | Plataforma        | Link de Acesso                |
+|-----------------------|-------------------|-------------------------------|
+| Quadro Kanban         | Github            | https://github.com/XXXXXXX    | 
+| Repositório de código | GitHub            | https://github.com/XXXXXXX    | 
+| Hospedagem do site    | Heroku            | https://XXXXXXX.herokuapp.com | 
+| Protótipo Interativo  | MavelApp ou Figma | https://figma.com/XXXXXXX     | 
 
 >
 > Liste as ferramentas empregadas no desenvolvimento do
@@ -277,6 +277,8 @@ A tabela que segue apresenta os requisitos funcionais do projeto.
 
 # Termo de Abertura do Projeto (TAP)
 
+......  COLOQUE AQUI O SEU TEXTO ......
+
 > O Termo de Abertura do Projeto (TAP) é um documento essencial no contexto da gerência de projetos, representando o ponto de partida oficial para o empreendimento. 
 > Ele sintetiza de maneira clara e concisa os objetivos, escopo, stakeholders envolvidos, entregas esperadas, cronograma preliminar e recursos necessários para a execução bem-sucedida do projeto. 
 > O TAP funciona como um contrato inicial entre a equipe do projeto e as partes interessadas, estabelecendo as bases para uma compreensão compartilhada dos propósitos e limites do projeto. 
@@ -290,4 +292,20 @@ A tabela que segue apresenta os requisitos funcionais do projeto.
 
 ## Canvas do Projeto
 
+......  COLOQUE AQUI O SEU TEXTO ......
+
+> O Canvas do Projeto é uma ferramenta visual valiosa no contexto da gerência de projetos, proporcionando uma visão abrangente e consolidada dos principais elementos e componentes essenciais do empreendimento. 
+> Inspirado no Business Model Canvas, esse modelo específico para projetos inclui seções dedicadas ao escopo, stakeholders, riscos, recursos, atividades-chave, parcerias, custos e receitas. 
+> O Canvas do Projeto facilita a comunicação eficaz entre a equipe de projeto e as partes interessadas, fornecendo uma visão panorâmica que simplifica a compreensão do projeto como um todo. 
+> Ao preencher cada bloco do canvas, os gestores de projeto podem clarificar objetivos, identificar potenciais desafios, otimizar recursos e definir estratégias para mitigar riscos. 
+> Essa abordagem visual e colaborativa promove a transparência, agilidade e alinhamento, fundamentais para a execução bem-sucedida de projetos em ambientes dinâmicos e desafiadores.
+
 ## Viabilidade Econômica
+
+......  COLOQUE AQUI O SEU TEXTO ......
+
+> A avaliação da viabilidade econômica é uma etapa crucial no contexto da gerência de projetos, pois visa determinar a sustentabilidade financeira e o retorno sobre o investimento do empreendimento. 
+> Este processo envolve a análise detalhada dos custos associados ao projeto, incluindo investimentos iniciais, despesas operacionais e potenciais custos de manutenção. 
+> Simultaneamente, são examinados os benefícios esperados, como receitas, economias de custos e ganhos tangíveis e intangíveis. 
+> A elaboração de projeções financeiras realistas e a aplicação de métricas como o Valor Presente Líquido (VPL) e a Taxa Interna de Retorno (TIR) contribuem para uma avaliação abrangente da viabilidade econômica do projeto. 
+> Este processo permite que os gestores de projeto e as partes interessadas tomem decisões informadas sobre a continuidade, ajustes ou mesmo a interrupção do projeto, garantindo uma alocação eficiente de recursos e maximizando os benefícios econômicos esperados.
