@@ -2,7 +2,9 @@
 
 # Nome do projeto
 
-Escreva um ou dois parágrafos resumindo o objetivo do seu projeto.
+> Escreva um parágrafo resumindo o tema do projeto.
+
+> Descreva, em um ou dois parágrafos, um resumo do projeto (principais objetivos e justificativa).
 
 ## Alunos integrantes da equipe
 
@@ -27,14 +29,16 @@ Gerenciamento do Projeto:
 2. [Planejamento](docs/02-planejamento/README.md)
 3. [Execução](docs/03-execucao/README.md)
 4. [Monitoramento](docs/04-monitoramento/README.md)
-5. [Encerramento](docs/05-encerramento/README.md)
-
-Link importante: https://www.gestaodeprojeto.info/8documentos
+5. [Encerramento](docs/05-encerramento/README.md)V
 
 ## Apresentação do Trabalho
 
-Adicione aqui o vídeo explicativo do trabalho.
-Utilize a estrutura (link) abaixo para apresentação do vídeo.
+> Adicione aqui o vídeo explicativo do trabalho.
+> Utilize a estrutura (link) abaixo para apresentação do vídeo.
+> O vídeo deve ser postado obrigatoriamente de forma pública no Youtube ou qualquer outra plataforma 
+
+> A imagem abaixo deve ser substituída por uma capa do vídeo de apresentação do trabalho.
+> A imagem não é gerada
 
 [![Imagem do Trabalho](images/pucminas-video-youtube.jpg)](https://www.youtube.com/watch?v=unq_cZ6NOwk)
 

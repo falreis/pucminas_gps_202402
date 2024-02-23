@@ -1,6 +1,11 @@
 # Iniciação
 
-> Descreva brevemente as atividades que serão detalhadas nesta fase.
+> A fase de iniciação em gerência de projetos é um estágio crucial que estabelece as bases para o sucesso do empreendimento. 
+> Durante essa etapa, os objetivos do projeto são claramente definidos, identificando-se suas metas, escopo, stakeholders e restrições. 
+> É o momento em que a viabilidade do projeto é avaliada, analisando-se recursos necessários, riscos potenciais e benefícios esperados.
+> Além disso, a formação da equipe do projeto e a elaboração do termo de abertura são passos essenciais. 
+> Essa fase serve como um alicerce estratégico, proporcionando uma compreensão abrangente do que o projeto busca alcançar e delineando as diretrizes que nortearão todas as etapas subsequentes. 
+> O sucesso na fase de iniciação contribui significativamente para a eficácia do gerenciamento de projetos como um todo.
 
 # Estrutura do Documento
 
@@ -10,14 +15,18 @@
   - [Objetivos](#objetivos)
   - [Público-Alvo](#público-alvo)
 - [Especificações do Projeto](#especificações-do-projeto)
+  - [Critérios de Sucessos](#critérios-de-sucesso)
   - [Partes Interessadas](#partes-interessadas)
-  - [Personas](#stakeholders)
   - [Histórias de Usuários](#histórias-de-usuários)
   - [Requisitos](#requisitos)
-- [Projeto da Solução](#projeto-da-solução)
-  - [Wireframes](#wireframes)
-  - [Mapa de navegação](#mapa-de-navegação)
-- [Artefatos](artefatos/README.md)
+- [Metodologia](#metodologia)
+  - [Divisão de Papéis](#divisão-de-papéis)
+  - [Ferramentas](#ferramentas)
+  - [Controle de Versão](#controle-de-versão)
+- [Termo de Abertura do Projeto (TAP)](#termo-de-abertura-do-projeto-tap)
+- [Opcional](#opcional)
+  - [Canvas do Projeto](#canvas-do-projeto)
+  - [Viabilidade Econômica](#viabilidade-econômica)
 
 # Introdução
 
@@ -73,6 +82,15 @@
 > documento, enumerando as técnicas e/ou ferramentas utilizadas para
 > realizar a especificações do projeto
 
+## Critérios de Sucesso
+
+......  COLOQUE AQUI O SEU TEXTO ......
+
+> Os critérios de sucesso de um projeto fornecem uma estrutura clara para avaliar o êxito do trabalho e analisar se o projeto realmente alcançou os objetivos estabelecidos. 
+> Esses critérios geralmente abrangem diversas dimensões, incluindo a entrega dentro do prazo e orçamento estipulados, a satisfação do cliente, a qualidade do produto ou serviço final, e a eficiência na utilização de recursos. 
+> Além disso, a capacidade de atender aos requisitos e expectativas das partes interessadas, a conformidade com normas e regulamentos, bem como a gestão eficaz de riscos, são considerados aspectos cruciais para determinar o sucesso de um projeto. 
+> A definição clara e consensual desses critérios desde o início do projeto estabelece as bases para uma avaliação objetiva e facilita a comunicação entre a equipe de projeto e as partes interessadas, contribuindo assim para o alcance bem-sucedido dos objetivos estabelecidos.
+
 ## Partes Interessadas
 
 ......  COLOQUE AQUI O SEU TEXTO ......
@@ -85,29 +103,11 @@
 
 > Você deve preencher o seguinte documento:
 - [Registro de Partes Interessadas](artefatos/registro-partes-interessadas.xlsx)
-
-## Personas
-
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Relacione as personas identificadas no seu projeto. Lembre-se que 
-> você deve descrever precisamente e de forma personalizada o público alvo do seu projeto. 
-> Você pode incluir uma imagem da ficha de persona desenvolvida. 
->
-> Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina
-> e/ou nos seguintes links:
->
-> **Links Úteis**:
-> - [Persona x Público-alvo](https://flammo.com.br/blog/persona-e-publico-alvo-qual-a-diferenca/)
-> - [O que é persona?](https://resultadosdigitais.com.br/blog/persona-o-que-e/)
-> - [Rock Content](https://rockcontent.com/blog/personas/)
-> - [Hotmart](https://blog.hotmart.com/pt-br/como-criar-persona-negocio/)
 > 
-> **Exemplo de Ficha**
-> ![Exemplo de Persona](/images/persona.png)
  
-
 ## Histórias de Usuários
+
+......  ATUALIZE AS HISTÓRIAS DE USUÁRIOS ABAIXO (MÍNIMO 20) ......
 
 Com base na análise das personas forma identificadas as seguintes histórias de usuários:
 
@@ -127,57 +127,167 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 ## Requisitos
 
+......  ATUALIZE OS REQUISITOS FUNCIONAIS DO SISTEMA (MÍNIMO 30) ......
+
 A tabela que segue apresenta os requisitos funcionais do projeto. 
 
 ### Requisitos Funcionais
 
 |ID    | Descrição do Requisito  | Prioridade |
-|------|-----------------------------------------|----|
+|------|-----------------------------------------|-------|
 |RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
 |RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
 
+### Requisitos Não Funcionais
+
+......  ATUALIZE OS REQUISITOS NÃO FUNCIONAIS DO SISTEMA (MÍNIMO 5) ......
+
+|ID     | Descrição do Requisito                                            |Prioridade |
+|-------|-------------------------------------------------------------------|-----------|
+|RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA     | 
+|RNF-002| Deve processar requisições do usuário em no máximo 3s             | BAIXA     | 
+
+
+### Restrições
+
+......  ATUALIZE AS RESTRIÇÕES DO SISTEMA (MÍNIMO 10) ......
+
+|ID    | Descrição do Requisito  | Prioridade |
+|------|-----------------------------------------|-------|
+|RE-001| Permitir que o usuário cadastre tarefas | ALTA | 
+|RE-002| Emitir um relatório de tarefas no mês   | MÉDIA |
 
 > Com base nas Histórias de Usuário, enumere os requisitos da sua
 > solução. Classifique esses requisitos em dois grupos:
 >
+> - [Requisitos Funcionais (RF)](https://pt.wikipedia.org/wiki/Requisito_funcional):
+>   correspondem a uma funcionalidade que deve estar presente na
+>   plataforma (ex: cadastro de usuário).
+>
+> - [Requisitos Não Funcionais (RNF)](https://pt.wikipedia.org/wiki/Requisito_n%C3%A3o_funcional):
+>   correspondem a uma característica técnica, seja de usabilidade,
+>   desempenho, confiabilidade, segurança ou outro (ex: suporte a
+>   dispositivos iOS e Android).
+>
 > Lembre-se que cada requisito deve corresponder à uma e somente uma
 > característica alvo da sua solução. Além disso, certifique-se de que
 > todos os aspectos capturados nas Histórias de Usuário foram cobertos.
-
-# Projeto da Solução
-
-......  COLOQUE AQUI O SEU TEXTO ......
-> Descreva brevemente quais tecnologias e/ou frameworks foram utilizados no projeto.
-
-## Wireframes
-
-......  INCLUA AQUI OS WIREFRAMES DAS TELAS DA APLICAÇÃO COM UM BREVE DESCRITIVO ......
-
-> Wireframes são protótipos das telas da aplicação usados em design de interface para sugerir a
-> estrutura de um site web e seu relacionamentos entre suas
-> páginas. Um wireframe web é uma ilustração semelhante ao
-> layout de elementos fundamentais na interface.
 > 
 > **Links Úteis**:
-> - [Ferramentas de Wireframes](https://rockcontent.com/blog/wireframes/)
-> - [Figma](https://www.figma.com/)
-> - [Adobe XD](https://www.adobe.com/br/products/xd.html#scroll)
-> - [MarvelApp](https://marvelapp.com/developers/documentation/tutorials/)
 > 
-> **Exemplo**:
+> - [O que são Requisitos Funcionais e Requisitos Não Funcionais?](https://codificar.com.br/requisitos-funcionais-nao-funcionais/)
+> - [O que são requisitos funcionais e requisitos não funcionais?](https://analisederequisitos.com.br/requisitos-funcionais-e-requisitos-nao-funcionais-o-que-sao/)
+
+
+# Metodologia
+
+......  COLOQUE AQUI O SEU TEXTO ......
+
+> Nesta parte do documento, você deve apresentar a metodologia 
+> adotada pelo grupo, descrevendo o processo de trabalho baseado nas metodologias ágeis, 
+> a divisão de papéis e tarefas, as ferramentas empregadas e como foi realizada a
+> gestão de configuração do projeto via GitHub.
+>
+> Coloque detalhes sobre o processo de Design Thinking e a implementação do Framework Scrum seguido
+> pelo grupo. O grupo poderá fazer uso de ferramentas on-line para acompanhar
+> o andamento do projeto, a execução das tarefas e o status de desenvolvimento
+> da solução.
 > 
-> ![Exemplo de Link para Wireframe](/images/wireframe-example.png)
+> **Links Úteis**:
+> - [Tutorial Trello](https://trello.com/b/8AygzjUA/tutorial-trello)
+> - [Gestão ágil de projetos com o Trello](https://www.youtube.com/watch?v=1o9BOMAKBRE)
+> - [Gerência de projetos - Trello com Scrum](https://www.youtube.com/watch?v=DHLA8X_ujwo)
+> - [Tutorial Slack](https://slack.com/intl/en-br/)
+
+## Divisão de Papéis
+
+......  COLOQUE AQUI O SEU TEXTO ......
+
+> Apresente a divisão de papéis e tarefas entre os membros do grupo.
+>
+> **Links Úteis**:
+> - [11 Passos Essenciais para Implantar Scrum no seu Projeto](https://mindmaster.com.br/scrum-11-passos/)
+> - [Scrum em 9 minutos](https://www.youtube.com/watch?v=XfvQWnRgxG0)
 
 
-## Mapa de navegação
+## Ferramentas
 
-......  COLOQUE AQUI O SEU TEXTO OU DIAGRAMA DE NAVEGAÇÃO .......
+......  COLOQUE AQUI O SEU TEXTO - SIGA O EXEMPLO DA TABELA ABAIXO  ......
 
-> Inclua uma descrição textual ou um diagrama mostrando, sequencialmente, quais ações
-> um usuário deve realizar para utilizar todas as características do seu sistema. 
+| Ambiente  | Plataforma              |Link de Acesso |
+|-----------|-------------------------|---------------|
+|Processo de Design Thinkgin  | Miro |  https://miro.com/XXXXXXX | 
+|Repositório de código | GitHub | https://github.com/XXXXXXX | 
+|Hospedagem do site | Heroku |  https://XXXXXXX.herokuapp.com | 
+|Protótipo Interativo | MavelApp ou Figma | https://figma.com/XXXXXXX | 
+
+>
+> Liste as ferramentas empregadas no desenvolvimento do
+> projeto, justificando a escolha delas, sempre que possível.
+> 
+> As ferramentas empregadas no projeto são:
+> 
+> - Editor de código.
+> - Ferramentas de comunicação
+> - Ferramentas de diagramação
+> - Plataforma de hospedagem
+> 
+> O editor de código foi escolhido porque ele possui uma integração com o
+> sistema de versão. As ferramentas de comunicação utilizadas possuem
+> integração semelhante e por isso foram selecionadas. Por fim, para criar
+> diagramas utilizamos essa ferramenta por melhor captar as
+> necessidades da nossa solução.
+> 
+> **Links Úteis - Hospedagem**:
+> - [Getting Started with Heroku](https://devcenter.heroku.com/start)
+> - [Crie seu Site com o HostGator](https://www.hostgator.com.br/como-publicar-seu-site)
+> - [GoDady](https://br.godaddy.com/how-to)
+> - [GitHub Pages](https://pages.github.com/)
+
+## Controle de Versão
+
+......  COLOQUE AQUI O SEU TEXTO ......
+
+> Discuta como a configuração do projeto foi feita na ferramenta de
+> versionamento escolhida. Exponha como a gerência de tags, merges,
+> commits e branchs é realizada. Discuta como a gerência de issues foi
+> realizada.
+> A ferramenta de controle de versão adotada no projeto foi o
+> [Git](https://git-scm.com/), sendo que o [Github](https://github.com)
+> foi utilizado para hospedagem do repositório `upstream`.
+> 
+> O projeto segue a seguinte convenção para o nome de branchs:
+> 
+> - `master`: versão estável já testada do software
+> - `unstable`: versão já testada do software, porém instável
+> - `testing`: versão em testes do software
+> - `dev`: versão de desenvolvimento do software
+> 
+> Quanto à gerência de issues, o projeto adota a seguinte convenção para
+> etiquetas:
+> 
+> - `bugfix`: uma funcionalidade encontra-se com problemas
+> - `enhancement`: uma funcionalidade precisa ser melhorada
+> - `feature`: uma nova funcionalidade precisa ser introduzida
+>
+> **Links Úteis**:
+> - [Tutorial GitHub](https://guides.github.com/activities/hello-world/)
+> - [Git e Github](https://www.youtube.com/playlist?list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA)
+> - [5 Git Workflows & Branching Strategy to deliver better code](https://zepel.io/blog/5-git-workflows-to-improve-development/)
+
+# Termo de Abertura do Projeto (TAP)
+
+> O Termo de Abertura do Projeto (TAP) é um documento essencial no contexto da gerência de projetos, representando o ponto de partida oficial para o empreendimento. 
+> Ele sintetiza de maneira clara e concisa os objetivos, escopo, stakeholders envolvidos, entregas esperadas, cronograma preliminar e recursos necessários para a execução bem-sucedida do projeto. 
+> O TAP funciona como um contrato inicial entre a equipe do projeto e as partes interessadas, estabelecendo as bases para uma compreensão compartilhada dos propósitos e limites do projeto. 
+> Ao delinear esses elementos de forma detalhada, o Termo de Abertura do Projeto fornece uma direção sólida para orientar as atividades subsequentes, facilitando a gestão eficaz do projeto desde o início até o encerramento. 
+> Essa documentação é vital para garantir a clareza, alinhamento e comprometimento de todos os envolvidos, contribuindo assim para o sucesso global do empreendimento.
+
+- [Termo de Abertura do Projeto](artefatos/termo-abertura-projeto.docx)
 
 
-> **Exemplo de Diagrama (opcional, pode ser em texto)**
-> ![Exemplo de Diagrama de Navegação](/images/userflow.jpg)
+# *Opcional*
 
+## Canvas do Projeto
 
+## Viabilidade Econômica
