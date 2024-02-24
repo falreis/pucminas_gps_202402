@@ -19,6 +19,7 @@
   - [Partes Interessadas](#partes-interessadas)
   - [Histórias de Usuários](#histórias-de-usuários)
   - [Requisitos](#requisitos)
+  - [Declaração de Escopo](#declaração-de-escopo)
 - [Metodologia](#metodologia)
   - [Divisão de Papéis](#divisão-de-papéis)
   - [Ferramentas](#ferramentas)
@@ -178,6 +179,13 @@ A tabela que segue apresenta os requisitos funcionais do projeto.
 > - [O que são Requisitos Funcionais e Requisitos Não Funcionais?](https://codificar.com.br/requisitos-funcionais-nao-funcionais/)
 > - [O que são requisitos funcionais e requisitos não funcionais?](https://analisederequisitos.com.br/requisitos-funcionais-e-requisitos-nao-funcionais-o-que-sao/)
 
+
+## Declaração de Escopo
+
+......  COLOQUE AQUI O SEU TEXTO ......
+
+> Você deve preencher o seguinte documento:
+- [Declaração de Escopo](artefatos/declaracao-escopo.docx)
 
 # Metodologia
 

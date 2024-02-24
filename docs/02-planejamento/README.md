@@ -21,6 +21,16 @@
 
 # Estrutura Analítica do Projeto
 
+> Você deve preencher o seguinte documento:
+- [Estrutura Analítica do Projeto](artefatos/estrutura_analitica_projeto.wbs)
+
+> **Exemplo de Mapa de Stakeholders**
+> ![Exemplo de EAP](/images/exemplo_wbs.png)
+
+> Softwares recomendados: 
+> * [WBS Schedule Pro (Demo)](https://www.criticaltools.com/)
+> * [Draw.io](https://app.diagrams.net/)
+
 # Matriz de Responsabilidades (RACI)
 
 # Cronograma do Projeto
