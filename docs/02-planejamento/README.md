@@ -33,7 +33,17 @@
 
 # Matriz de Responsabilidades (RACI)
 
+> A Matriz de Responsabilidades é uma ferramenta fundamental para estabelecer e comunicar claramente as responsabilidades de cada membro da equipe em relação às atividades do projeto. 
+> Também conhecida como RACI (Responsável, Aprovador, Consultado e Informado), essa matriz atribui papéis específicos a cada envolvido, indicando quem é responsável pela execução de uma tarefa, quem deve aprovar, quem precisa ser consultado e quem deve ser mantido informado. 
+> Ao criar uma visão visual e estruturada das responsabilidades, a matriz de responsabilidades minimiza ambiguidades e conflitos de papel, promovendo a eficiência operacional e a colaboração eficaz. 
+> Essa ferramenta não apenas esclarece as expectativas em termos de contribuições individuais, mas também contribui para um ambiente de trabalho mais organizado e transparente, resultando em uma gestão de projeto mais eficaz e bem-sucedida.
+
 # Cronograma do Projeto
+
+> O cronograma do projeto é uma peça central na gerência de projetos, representando uma representação temporal detalhada de todas as atividades, marcos e eventos cruciais ao longo do ciclo de vida do projeto. 
+> Elaborado durante o planejamento, o cronograma é uma ferramenta dinâmica que oferece uma visão clara das interdependências entre as tarefas, alocando recursos e definindo prazos para cada entrega. 
+> Utilizando técnicas como a análise de rede e estimativas de duração, o cronograma ajuda na identificação de caminhos críticos, permitindo aos gestores de projeto otimizar recursos, antecipar potenciais atrasos e tomar decisões informadas. 
+> Além disso, o cronograma serve como um guia para monitorar o progresso, comunicar efetivamente com a equipe e as partes interessadas, e ajustar estratégias conforme necessário para garantir a conclusão bem-sucedida do projeto dentro dos prazos estabelecidos.
 
 # Orçamento do Projeto
 

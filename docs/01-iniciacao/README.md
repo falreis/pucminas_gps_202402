@@ -1,9 +1,9 @@
 # Iniciação
 
-> A fase de iniciação em gerência de projetos é um estágio crucial que estabelece as bases para o sucesso do empreendimento. 
-> Durante essa etapa, os objetivos do projeto são claramente definidos, identificando-se suas metas, escopo, stakeholders e restrições. 
+> A fase de iniciação em gerência de projetos é o estágio que estabelece as bases para o sucesso do empreendimento. 
+> Durante essa etapa, os objetivos do projeto são claramente definidos, identificando-se suas metas, escopo, partes interessadas (*stakeholders*) e restrições. 
 > É o momento em que a viabilidade do projeto é avaliada, analisando-se recursos necessários, riscos potenciais e benefícios esperados.
-> Além disso, a formação da equipe do projeto e a elaboração do termo de abertura são passos essenciais. 
+> Nesta etapa é elaborado o Termo de Abertura do Projeto (TAP).
 > Essa fase serve como um alicerce estratégico, proporcionando uma compreensão abrangente do que o projeto busca alcançar e delineando as diretrizes que nortearão todas as etapas subsequentes. 
 > O sucesso na fase de iniciação contribui significativamente para a eficácia do gerenciamento de projetos como um todo.
 
@@ -16,18 +16,19 @@
   - [Público-Alvo](#público-alvo)
 - [Especificações do Projeto](#especificações-do-projeto)
   - [Critérios de Sucessos](#critérios-de-sucesso)
-  - [Partes Interessadas](#partes-interessadas)
   - [Histórias de Usuários](#histórias-de-usuários)
-  - [Requisitos](#requisitos)
-  - [Declaração de Escopo](#declaração-de-escopo)
+  - [Requisitos Preliminares](#requisitos-preliminares)
+- [Partes Interessadas](#partes-interessadas)
+- [Estimativa de Custo e Prazo](#estimativa-de-custo-e-prazo)
+  - [Estimativa de Custo](#estimativa-de-custo)
+  - [Estimativa de Prazo](#estimativa-de-prazo)
 - [Metodologia](#metodologia)
   - [Divisão de Papéis](#divisão-de-papéis)
   - [Ferramentas](#ferramentas)
-  - [Controle de Versão](#controle-de-versão)
-- [Termo de Abertura do Projeto (TAP)](#termo-de-abertura-do-projeto-tap)
-- [*Opcional*](#opcional)
-  - [Canvas do Projeto](#canvas-do-projeto)
-  - [Viabilidade Econômica](#viabilidade-econômica)
+- [Documentos](#documentos)
+  - [Declaração de Escopo](#declaração-de-escopo)
+  - [Registro de Partes Interessadas](#registro-de-partes-interessadas)
+  - [Termo de Abertura do Projeto (TAP)](#termo-de-abertura-do-projeto-tap)
 
 # Introdução
 
@@ -47,11 +48,9 @@
 
 ......  COLOQUE AQUI O SEU TEXTO ......
 
-> Aqui você deve descrever os objetivos do trabalho indicando que o
-> objetivo geral é desenvolver um software para solucionar o problema
-> apresentado acima. Apresente também pelo menos 2 objetivos
-> específicos dependendo de onde você vai querer concentrar ou aprofundar
-> as características do trabalho.
+> Aqui você deve descrever os objetivos do trabalho.
+> Apresente um Objetivo Geral, sintetizado em uma única frase
+> Apresente também 3 ou 4 objetivos específicos do trabalho (sub-produtos do sistema ou objetivos extras que podem ser alcançados pela construção do software).
 > 
 > **Link Útil**:
 > - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
@@ -91,20 +90,6 @@
 > Esses critérios geralmente abrangem diversas dimensões, incluindo a entrega dentro do prazo e orçamento estipulados, a satisfação do cliente, a qualidade do produto ou serviço final, e a eficiência na utilização de recursos. 
 > Além disso, a capacidade de atender aos requisitos e expectativas das partes interessadas, a conformidade com normas e regulamentos, bem como a gestão eficaz de riscos, são considerados aspectos cruciais para determinar o sucesso de um projeto. 
 > A definição clara e consensual desses critérios desde o início do projeto estabelece as bases para uma avaliação objetiva e facilita a comunicação entre a equipe de projeto e as partes interessadas, contribuindo assim para o alcance bem-sucedido dos objetivos estabelecidos.
-
-## Partes Interessadas
-
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Relacione as partes interessadas no seu projeto. 
-> Você deve descrever as partes interessadas e indicar qual o nível de influência em relação ao projeto.
-
-> **Exemplo de Mapa de Stakeholders**
-> ![Exemplo de Mapa de Stakeholders](/images/mapa_stakeholders.png)
-
-> Você deve preencher o seguinte documento:
-- [Registro de Partes Interessadas](artefatos/registro-partes-interessadas.xlsx)
-> 
  
 ## Histórias de Usuários
 
@@ -126,13 +111,13 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 > - [Histórias de usuários com exemplos e template](https://www.atlassian.com/br/agile/project-management/user-stories)
 > - [Como escrever boas histórias de usuário (User Stories)](https://medium.com/vertice/como-escrever-boas-users-stories-hist%C3%B3rias-de-usu%C3%A1rios-b29c75043fac)
 
-## Requisitos
+## Requisitos Preliminares
+
+### Requisitos Funcionais
 
 ......  ATUALIZE OS REQUISITOS FUNCIONAIS DO SISTEMA (MÍNIMO 30) ......
 
-A tabela que segue apresenta os requisitos funcionais do projeto. 
-
-### Requisitos Funcionais
+A tabela a seguir apresenta os requisitos funcionais do projeto. 
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|-------|
@@ -143,6 +128,8 @@ A tabela que segue apresenta os requisitos funcionais do projeto.
 
 ......  ATUALIZE OS REQUISITOS NÃO FUNCIONAIS DO SISTEMA (MÍNIMO 5) ......
 
+A tabela a seguir apresenta os requisitos não funcionais do projeto. 
+
 |ID     | Descrição do Requisito                                            |Prioridade |
 |-------|-------------------------------------------------------------------|-----------|
 |RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA     | 
@@ -152,6 +139,8 @@ A tabela que segue apresenta os requisitos funcionais do projeto.
 ### Restrições
 
 ......  ATUALIZE AS RESTRIÇÕES DO SISTEMA (MÍNIMO 10) ......
+
+A tabela a seguir apresenta as restrições do projeto. 
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|-------|
@@ -180,12 +169,54 @@ A tabela que segue apresenta os requisitos funcionais do projeto.
 > - [O que são requisitos funcionais e requisitos não funcionais?](https://analisederequisitos.com.br/requisitos-funcionais-e-requisitos-nao-funcionais-o-que-sao/)
 
 
-## Declaração de Escopo
+# Partes Interessadas
 
 ......  COLOQUE AQUI O SEU TEXTO ......
 
-> Você deve preencher o seguinte documento:
-- [Declaração de Escopo](artefatos/declaracao-escopo.docx)
+> Relacione as partes interessadas no seu projeto. 
+> Você deve descrever as partes interessadas e indicar qual o nível de influência em relação ao projeto.
+
+> **Exemplo de Mapa de Stakeholders**
+> ![Exemplo de Mapa de Stakeholders](/images/mapa_stakeholders.png)
+
+
+# Estimativa de Custo e Prazo
+
+## Estimativa de Custo
+
+......  COLOQUE AQUI O SEU TEXTO ......
+
+> A avaliação da viabilidade econômica busca determinar a sustentabilidade financeira e o retorno sobre o investimento do empreendimento. 
+> Este processo envolve a análise dos custos associados ao projeto, incluindo investimentos iniciais, despesas operacionais e potenciais custos de manutenção. 
+> Simultaneamente, são examinados os benefícios esperados, como receitas, economias de custos e ganhos tangíveis e intangíveis. 
+> A elaboração de projeções financeiras realistas e a aplicação de métricas como o Valor Presente Líquido (VPL) e a Taxa Interna de Retorno (TIR) contribuem para uma avaliação abrangente da viabilidade econômica do projeto. 
+> Este processo permite que os gestores de projeto e as partes interessadas tomem decisões informadas sobre a continuidade, ajustes ou mesmo a interrupção do projeto, garantindo uma alocação eficiente de recursos e maximizando os benefícios econômicos esperados.
+
+......  ATUALIZE OS ITENS DE CUSTO DO SISTEMA. ADICIONE NOVOS ITENS, CASO NECESSÁRIO ......
+
+| Item de Custo           | Descrição | Qtd. horas | Valor / hora | Valor total |
+|-------------------------|-----------|------------|--------------|-------------|
+| Recursos Humanos        |           |            |              |             |
+| Hardware                |           |            |              |             |
+| Serviços de Rede        |           |            |              |             |
+| Hospedagem e Nuvem      |           |            |              |             |
+| Software de terceiros   |           |            |              |             |
+| Serviços e treinamento  |           |            |              |             |
+| **Total Geral**         |           |            |              |             |
+
+
+## Estimativa de Prazo
+
+......  COLOQUE AQUI O SEU TEXTO ......
+
+> A estimativa de prazo orienta tanto o cliente quanto a equipe de desenvolvimento do projeto em termos do tempo necessário para a conclusão do projeto como um todo. 
+> Esta estimativa possibilita a criação de um cronograma realista e viável, permitindo que os gestores de projeto planejem adequadamente as fases do projeto, aloquem recursos de maneira eficiente e antecipem eventuais desafios temporais. 
+> Uma estimativa precisa de prazo não apenas orienta a execução do projeto, mas também contribui para a gestão eficaz de expectativas e o estabelecimento de metas alcançáveis para toda a equipe envolvida.
+
+> Indique:
+> * Prazo previsto (em horas) 
+> * Data de início
+> * Data de término
 
 # Metodologia
 
@@ -252,68 +283,25 @@ A tabela que segue apresenta os requisitos funcionais do projeto.
 > - [GoDady](https://br.godaddy.com/how-to)
 > - [GitHub Pages](https://pages.github.com/)
 
-## Controle de Versão
+# Documentos
 
-......  COLOQUE AQUI O SEU TEXTO ......
+## Declaração de Escopo
 
-> Discuta como a configuração do projeto foi feita na ferramenta de
-> versionamento escolhida. Exponha como a gerência de tags, merges,
-> commits e branchs é realizada. Discuta como a gerência de issues foi
-> realizada.
-> A ferramenta de controle de versão adotada no projeto foi o
-> [Git](https://git-scm.com/), sendo que o [Github](https://github.com)
-> foi utilizado para hospedagem do repositório `upstream`.
-> 
-> O projeto segue a seguinte convenção para o nome de branchs:
-> 
-> - `master`: versão estável já testada do software
-> - `unstable`: versão já testada do software, porém instável
-> - `testing`: versão em testes do software
-> - `dev`: versão de desenvolvimento do software
-> 
-> Quanto à gerência de issues, o projeto adota a seguinte convenção para
-> etiquetas:
-> 
-> - `bugfix`: uma funcionalidade encontra-se com problemas
-> - `enhancement`: uma funcionalidade precisa ser melhorada
-> - `feature`: uma nova funcionalidade precisa ser introduzida
->
-> **Links Úteis**:
-> - [Tutorial GitHub](https://guides.github.com/activities/hello-world/)
-> - [Git e Github](https://www.youtube.com/playlist?list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA)
-> - [5 Git Workflows & Branching Strategy to deliver better code](https://zepel.io/blog/5-git-workflows-to-improve-development/)
+> Você deve preencher o seguinte documento:
+- [Declaração de Escopo](artefatos/declaracao-escopo.docx)
 
-# Termo de Abertura do Projeto (TAP)
+## Registro de Partes Interessadas
 
-......  COLOQUE AQUI O SEU TEXTO ......
+> Você deve preencher o seguinte documento:
+- [Registro de Partes Interessadas](artefatos/registro-partes-interessadas.xlsx)
 
-> O Termo de Abertura do Projeto (TAP) é um documento essencial no contexto da gerência de projetos, representando o ponto de partida oficial para o empreendimento. 
-> Ele sintetiza de maneira clara e concisa os objetivos, escopo, stakeholders envolvidos, entregas esperadas, cronograma preliminar e recursos necessários para a execução bem-sucedida do projeto. 
+## Termo de Abertura do Projeto (TAP)
+
+> O Termo de Abertura do Projeto (TAP) representa o ponto de partida oficial para o empreendimento. 
+> Ele sintetiza de maneira clara e concisa os objetivos, escopo, partes interessadas envolvidas, entregas esperadas, cronograma preliminar e recursos necessários para a execução bem-sucedida do projeto. 
 > O TAP funciona como um contrato inicial entre a equipe do projeto e as partes interessadas, estabelecendo as bases para uma compreensão compartilhada dos propósitos e limites do projeto. 
-> Ao delinear esses elementos de forma detalhada, o Termo de Abertura do Projeto fornece uma direção sólida para orientar as atividades subsequentes, facilitando a gestão eficaz do projeto desde o início até o encerramento. 
-> Essa documentação é vital para garantir a clareza, alinhamento e comprometimento de todos os envolvidos, contribuindo assim para o sucesso global do empreendimento.
+> Ao delinear esses elementos de forma detalhada, o Termo de Abertura do Projeto (TAP) fornece uma direção sólida para orientar as atividades subsequentes, facilitando a gestão eficaz do projeto desde o início até o encerramento. 
+> Essa documentação garante a clareza, alinhamento e comprometimento de todos os envolvidos, contribuindo assim para o sucesso do projeto.
 
-- [Termo de Abertura do Projeto](artefatos/termo-abertura-projeto.docx)
-
-
-# *Opcional*
-
-## Canvas do Projeto
-
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> O Canvas do Projeto é uma ferramenta visual valiosa no contexto da gerência de projetos, proporcionando uma visão abrangente e consolidada dos principais elementos e componentes essenciais do empreendimento. 
-> Inspirado no Business Model Canvas, esse modelo específico para projetos inclui seções dedicadas ao escopo, stakeholders, riscos, recursos, atividades-chave, parcerias, custos e receitas. 
-> O Canvas do Projeto facilita a comunicação eficaz entre a equipe de projeto e as partes interessadas, fornecendo uma visão panorâmica que simplifica a compreensão do projeto como um todo. 
-> Ao preencher cada bloco do canvas, os gestores de projeto podem clarificar objetivos, identificar potenciais desafios, otimizar recursos e definir estratégias para mitigar riscos. 
-> Essa abordagem visual e colaborativa promove a transparência, agilidade e alinhamento, fundamentais para a execução bem-sucedida de projetos em ambientes dinâmicos e desafiadores.
-
-## Viabilidade Econômica
-
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> A avaliação da viabilidade econômica é uma etapa crucial no contexto da gerência de projetos, pois visa determinar a sustentabilidade financeira e o retorno sobre o investimento do empreendimento. 
-> Este processo envolve a análise detalhada dos custos associados ao projeto, incluindo investimentos iniciais, despesas operacionais e potenciais custos de manutenção. 
-> Simultaneamente, são examinados os benefícios esperados, como receitas, economias de custos e ganhos tangíveis e intangíveis. 
-> A elaboração de projeções financeiras realistas e a aplicação de métricas como o Valor Presente Líquido (VPL) e a Taxa Interna de Retorno (TIR) contribuem para uma avaliação abrangente da viabilidade econômica do projeto. 
-> Este processo permite que os gestores de projeto e as partes interessadas tomem decisões informadas sobre a continuidade, ajustes ou mesmo a interrupção do projeto, garantindo uma alocação eficiente de recursos e maximizando os benefícios econômicos esperados.
+> Você deve preencher o seguinte documento:
+> - [Termo de Abertura do Projeto](artefatos/termo-abertura-projeto.docx)
