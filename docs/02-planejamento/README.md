@@ -18,11 +18,20 @@
   - [Plano de Comunicação](#plano-de-comunicação)
   - [Plano de Gestão de RH](#plano-de-gestão-de-rh)
   - [Plano de Qualidade](#plano-de-qualidade)
+- [Documentos](#documentos)
+  - [Cronograma](#cronograma)
+  - [Estrutura Analítica do Projeto (EAP)](#estrutura-analítica-do-projeto-eap)
+  - [Matriz de Responsabilidades (RACI)](#matriz-de-responsabilidades-raci)
 
 # Estrutura Analítica do Projeto
 
-> Você deve preencher o seguinte documento:
-- [Estrutura Analítica do Projeto](artefatos/estrutura_analitica_projeto.wbs)
+......  COLOQUE AQUI O SEU TEXTO ......
+
+> A Estrutura Analítica do Projeto (EAP) proporciona uma representação hierárquica e desdobrada das entregas e atividades que compõem um projeto. 
+> Organizando o escopo do projeto em componentes gerenciáveis e compreensíveis, a EAP facilita a decomposição do trabalho em partes menores, tornando mais fácil o planejamento, a atribuição de responsabilidades e o monitoramento do progresso. 
+> Cada elemento na estrutura representa uma parcela específica do trabalho a ser realizado, proporcionando clareza sobre as inter-relações entre as diferentes partes do projeto. 
+> A EAP serve como a base para a criação do cronograma do projeto, a alocação de recursos e a identificação de dependências. 
+> Essa abordagem estruturada contribui significativamente para o sucesso do projeto, garantindo uma compreensão abrangente do escopo e uma base sólida para a gestão eficaz do trabalho ao longo do ciclo de vida do projeto.
 
 > **Exemplo de Mapa de Stakeholders**
 > ![Exemplo de EAP](/images/exemplo_wbs.png)
@@ -31,16 +40,28 @@
 > * [WBS Schedule Pro (Demo)](https://www.criticaltools.com/)
 > * [Draw.io](https://app.diagrams.net/)
 
-# Matriz de Responsabilidades (RACI)
+# Matriz de Responsabilidades
 
-> A Matriz de Responsabilidades é uma ferramenta fundamental para estabelecer e comunicar claramente as responsabilidades de cada membro da equipe em relação às atividades do projeto. 
+......  COLOQUE AQUI O SEU TEXTO ......
+
+> A Matriz de Responsabilidades é uma ferramenta para estabelecer e comunicar claramente as responsabilidades de cada membro da equipe em relação às atividades do projeto. 
 > Também conhecida como RACI (Responsável, Aprovador, Consultado e Informado), essa matriz atribui papéis específicos a cada envolvido, indicando quem é responsável pela execução de uma tarefa, quem deve aprovar, quem precisa ser consultado e quem deve ser mantido informado. 
 > Ao criar uma visão visual e estruturada das responsabilidades, a matriz de responsabilidades minimiza ambiguidades e conflitos de papel, promovendo a eficiência operacional e a colaboração eficaz. 
 > Essa ferramenta não apenas esclarece as expectativas em termos de contribuições individuais, mas também contribui para um ambiente de trabalho mais organizado e transparente, resultando em uma gestão de projeto mais eficaz e bem-sucedida.
 
+> Informações Adicionais
+> * **R**esponsible -> Executor (pessoa(s) que executará(ão)/desenvolverá(ão) a atividade)
+> * **A**ccountable -> Responsável (pessoa responsável por aprovar a atividade)
+> * **C**onsulted   -> Consultado (especialista consultado sobre a atividade ou parte dela)
+> * **I**nformed    -> Informado (pessoas interessadas no projeto que devem ser informadas sobre a execução).
+> 
+> Link de auxílio: https://www.forbes.com/advisor/business/raci-chart/
+
 # Cronograma do Projeto
 
-> O cronograma do projeto é uma peça central na gerência de projetos, representando uma representação temporal detalhada de todas as atividades, marcos e eventos cruciais ao longo do ciclo de vida do projeto. 
+......  COLOQUE AQUI O SEU TEXTO ......
+
+> O cronograma do projeto fornece uam representação temporal detalhada de todas as atividades, marcos e eventos ao longo do ciclo de vida do projeto. 
 > Elaborado durante o planejamento, o cronograma é uma ferramenta dinâmica que oferece uma visão clara das interdependências entre as tarefas, alocando recursos e definindo prazos para cada entrega. 
 > Utilizando técnicas como a análise de rede e estimativas de duração, o cronograma ajuda na identificação de caminhos críticos, permitindo aos gestores de projeto otimizar recursos, antecipar potenciais atrasos e tomar decisões informadas. 
 > Além disso, o cronograma serve como um guia para monitorar o progresso, comunicar efetivamente com a equipe e as partes interessadas, e ajustar estratégias conforme necessário para garantir a conclusão bem-sucedida do projeto dentro dos prazos estabelecidos.
@@ -49,10 +70,38 @@
 
 # Planos de Gerenciamento
 
+......  COLOQUE AQUI O SEU TEXTO ......
+
 ## Plano de Aquisição
+
+......  COLOQUE AQUI O SEU TEXTO ......
 
 ## Plano de Comunicação
 
+......  COLOQUE AQUI O SEU TEXTO ......
+
 ## Plano de Gestão de RH
 
+......  COLOQUE AQUI O SEU TEXTO ......
+
 ## Plano de Qualidade
+
+......  COLOQUE AQUI O SEU TEXTO ......
+
+# Documentos
+
+## Cronograma
+
+> Você deve preencher o seguinte documento:
+- [Cronograma do Projeto](artefatos/cronograma_projeto.pod)
+
+## Estrutura Analítica do Projeto (EAP)
+
+> Você deve preencher o seguinte documento:
+- [Estrutura Analítica do Projeto](artefatos/estrutura_analitica_projeto.wbs)
+
+## Matriz de Responsabilidades (RACI)
+
+> Você deve preencher o seguinte documento:
+- [Declaração de Escopo](artefatos/declaracao-escopo.docx)
+

@@ -2,7 +2,11 @@
 
 # Nome do projeto
 
+......  COLOQUE AQUI O SEU TEXTO ......
+
 > Escreva um parágrafo resumindo o tema do projeto.
+
+......  COLOQUE AQUI O SEU TEXTO ......
 
 > Descreva, em um ou dois parágrafos, um resumo do projeto (principais objetivos e justificativa).
 
@@ -16,22 +20,25 @@
 
 ## Professor responsável
 
-* [Felipe A. L. Reis](https://github.com/falreis)
+* [Felipe Augusto Lima Reis](https://github.com/falreis)
 
 ## Gerenciamento do Projeto
 
-Adicione aqui informações sobre o projeto que será gerenciado. 
+......  COLOQUE AQUI O SEU TEXTO ......
 
-Indique informações importantes sobre o projeto.
+> Adicione aqui informações sobre o projeto que será gerenciado. 
+> Indique informações importantes sobre o projeto.
 
-Gerenciamento do Projeto:
+Fases do Gerenciamento do Projeto:
 1. [Iniciação](docs/01-iniciacao/README.md)
 2. [Planejamento](docs/02-planejamento/README.md)
 3. [Execução](docs/03-execucao/README.md)
 4. [Monitoramento](docs/04-monitoramento/README.md)
-5. [Encerramento](docs/05-encerramento/README.md)V
+5. [Encerramento](docs/05-encerramento/README.md)
 
 ## Apresentação do Trabalho
+
+......  COLOQUE AQUI O SEU TEXTO ......
 
 > Adicione aqui o vídeo explicativo do trabalho.
 > Utilize a estrutura (link) abaixo para apresentação do vídeo.
@@ -44,6 +51,7 @@ Gerenciamento do Projeto:
 
 ## Informações Adicionais
 
-Inclua aqui informações extra sobre o projeto.
+......  COLOQUE AQUI O SEU TEXTO ......
 
-Caso não existam informações extras, remova a seção.
+> Inclua aqui informações extra sobre o projeto.
+> Caso não existam informações extras, remova a seção.
