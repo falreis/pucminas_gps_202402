@@ -16,12 +16,15 @@
 - [Planos de Gerenciamento](#planos-de-gerenciamento)
   - [Plano de Aquisição](#plano-de-aquisição)
   - [Plano de Comunicação](#plano-de-comunicação)
-  - [Plano de Gestão de RH](#plano-de-gestão-de-rh)
   - [Plano de Qualidade](#plano-de-qualidade)
 - [Documentos](#documentos)
+  - [Checklist de Qualidade](#checklist-de-qualidade)
   - [Cronograma](#cronograma)
   - [Estrutura Analítica do Projeto (EAP)](#estrutura-analítica-do-projeto-eap)
   - [Matriz de Responsabilidades (RACI)](#matriz-de-responsabilidades-raci)
+- [Opcional](#opcional)
+  - [Plano de Gestão de RH](#plano-de-gestão-de-rh)
+
 
 # Estrutura Analítica do Projeto
 
@@ -68,6 +71,14 @@
 
 # Orçamento do Projeto
 
+......  COLOQUE AQUI O SEU TEXTO ......
+
+> O orçamento do projeto envolve a estimativa e alocação de recursos financeiros necessários para a execução bem-sucedida do projeto, abrangendo custos diretos e indiretos, despesas operacionais, investimentos em equipamentos, pessoal, entre outros. 
+> O desenvolvimento do orçamento é um processo que requer análise cuidadosa, considerando variáveis como riscos, imprevistos e mudanças no escopo. 
+> Uma vez estabelecido, o orçamento serve como guia para a utilização eficiente dos recursos financeiros ao longo do projeto. 
+> A gestão rigorosa do orçamento não apenas ajuda a controlar os custos, mas também fornece transparência e prestação de contas, permitindo que os gestores tomem decisões informadas e evitem surpresas financeiras ao longo do ciclo de vida do projeto. 
+> Assim, o orçamento é uma ferramenta essencial para o sucesso do projeto, garantindo a viabilidade econômica e a entrega dentro das expectativas financeiras estabelecidas.
+
 # Planos de Gerenciamento
 
 ......  COLOQUE AQUI O SEU TEXTO ......
@@ -80,20 +91,40 @@
 
 ......  COLOQUE AQUI O SEU TEXTO ......
 
-## Plano de Gestão de RH
-
-......  COLOQUE AQUI O SEU TEXTO ......
-
 ## Plano de Qualidade
 
 ......  COLOQUE AQUI O SEU TEXTO ......
 
+> Referência - Conceitual
+> * https://www.researchgate.net/publication/230636169_Software_Quality_Assurance
+
+> Normas de Qualidade:
+> * https://repositorium.uminho.pt/bitstream/1822/27266/1/Tese_MEI_PG19676_Juliana%20Oliveira.pdf
+> * https://cin.ufpe.br/~processos/TAES3/Livro/00-LIVRO/07-Normas%20ISO%20e%20Qualidade%20de%20Software-v6_CORRIGIDO.pdf
+
+> Métricas de software:
+> * https://repositorio.unicamp.br/Busca/Download?codigoArquivo=489087
+> * https://lume.ufrgs.br/bitstream/handle/10183/66095/000870909.pdf?sequence=1
+> * https://www.computerweekly.com/br/tip/23-metricas-de-desenvolvimento-de-software-que-devem-ser-monitoradas
+
+> Processos de Garantia da Qualidade de Software
+> * https://ceur-ws.org/Vol-3200/paper22.pdf
+> * https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=d6bd60206282a2d4449e414e81a703612ef78a0c
+> * https://www.testbytes.net/blog/quality-assurance-process-methodology/
+> * https://www.projectmanager.com/blog/quality-assurance-and-testing
+
+
 # Documentos
 
-## Cronograma
+## Checklist de Qualidade
 
 > Você deve preencher o seguinte documento:
-- [Cronograma do Projeto](artefatos/cronograma_projeto.pod)
+- [Checklist de Qualidade](artefatos/checklist_qualidade.docx)
+
+## Cronograma e Orçamento do Projeto
+
+> Você deve preencher o seguinte documento:
+- [Cronograma e Orçamento do Projeto](artefatos/cronograma_orcamento.pod)
 
 ## Estrutura Analítica do Projeto (EAP)
 
@@ -105,3 +136,9 @@
 > Você deve preencher o seguinte documento:
 - [Declaração de Escopo](artefatos/declaracao-escopo.docx)
 
+
+# *Opcional* 
+
+## Plano de Gestão de RH
+
+......  COLOQUE AQUI O SEU TEXTO ......
