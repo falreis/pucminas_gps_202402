@@ -142,6 +142,9 @@
 
 # Documentos
 
+> Esta seção deve ser utilizada para armazenamento e listagem dos documentos e artefatos produzidos durante as aulas.
+> Atualize os documentos nos respectivos links.
+
 ## Aquisição de Produtos
 
 > Você deve preencher o seguinte documento:

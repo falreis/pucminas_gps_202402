@@ -12,7 +12,10 @@
 - [Fase de Monitoramento](#monitoramento)
 
 
-# Artefatos
+# Documentos
+
+> Esta seção deve ser utilizada para armazenamento e listagem dos documentos e artefatos produzidos durante as aulas.
+> Atualize os documentos nos respectivos links.
 
 ## Ata de Reunião
 - [Ata de Reunião](artefatos/ata-reuniao.docx)

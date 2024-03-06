@@ -4,10 +4,6 @@
 
 ......  COLOQUE AQUI O SEU TEXTO ......
 
-> Escreva um parágrafo resumindo o tema do projeto.
-
-......  COLOQUE AQUI O SEU TEXTO ......
-
 > Descreva, em um ou dois parágrafos, um resumo do projeto (principais objetivos e justificativa).
 
 ## Alunos integrantes da equipe
@@ -24,7 +20,7 @@
 
 ## Gerenciamento do Projeto
 
-......  COLOQUE AQUI O SEU TEXTO ......
+......  COLOQUE AQUI O SEU TEXTO (OPCIONAL) ......
 
 > Adicione aqui informações sobre o projeto que será gerenciado. 
 > Indique informações importantes sobre o projeto.
