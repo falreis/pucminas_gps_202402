@@ -8,10 +8,10 @@
 
 ```diff
 - Esta seção irá simular a execução do projeto. 
-- Devido às características da disciplina, não será possível implementar, via código, um software.
+- Devido às características da disciplina, não será possível implementar o software (tempo insuficiente).
 - Com isso, apenas simularemos a construção do sistema nesta etapa.
 - Para isso, serão criados protótipos navegáveis, representando aquilo que seria efetivamente desenvolvido em termos de interface.
-- Diagramas arquiteturais, de componentes e de classe representarão a modelagem e implementação do código-fonte.
+- Diagramas arquiteturais, diagrama de banco de dados e de classe representarão a modelagem e implementação do código-fonte.
 ```
 
 # Estrutura do Documento
@@ -22,9 +22,8 @@
 - [Modelagem da Solução](#modelagem-da-solução)
   - [Tecnologias Utilizadas](#tecnologias-utilizadas)
   - [Arquitetura da Solução](#arquitetura-da-solução)
-  - [Modelo de Dados](#modelo-de-dados)
-  - [Diagrama de Componentes](#diagrama-de-componentes)
   - [Diagrama de Classes](#diagrama-de-classes)
+  - [Persistência dos Dados](#persistência-dos-dados)
 
 
 # Interfaces do Sistema
@@ -33,10 +32,10 @@
 
 ......  INCLUA AQUI O DIAGRAMA COM O FLUXO DO USUÁRIO NA APLICAÇÃO ......
 
-> Fluxo de usuário (User Flow) é uma técnica que permite ao desenvolvedor
-> mapear todo fluxo de telas do site ou app. Essa técnica funciona
-> para alinhar os caminhos e as possíveis ações que o usuário pode
-> fazer junto com os membros de sua equipe.
+> Os protótipos navegáveis oferecem uma representação interativa das interfaces e funcionalidades do sistema antes da implementação final. 
+> Esses protótipos permitem que os usuários experimentem a navegação real entre telas e interajam com elementos de interface, proporcionando uma visão prática do design proposto. 
+> Ao criar protótipos navegáveis, os desenvolvedores podem validar conceitos, testar a usabilidade e obter feedback de stakeholders e usuários finais. 
+> Essa abordagem contribui para a detecção precoce de possíveis problemas de usabilidade, refinando o design e economizando tempo e recursos durante o ciclo de desenvolvimento. 
 >
 > **Links Úteis**:
 > - [User Flow: O Quê É e Como Fazer?](https://medium.com/7bits/fluxo-de-usu%C3%A1rio-user-flow-o-que-%C3%A9-como-fazer-79d965872534)
@@ -47,58 +46,73 @@
 > 
 > ![Exemplo de UserFlow](images/userflow.jpg)
 
-
-> **Exemplo de Diagrama (opcional, pode ser em texto)**
-> ![Exemplo de Diagrama de Navegação](/images/userflow.jpg)
-
-
 # Modelagem da Solução
 
 ......  COLOQUE AQUI O SEU TEXTO ......
-> Descreva brevemente quais tecnologias e/ou frameworks foram utilizados no projeto.
 
 
-......  COLOQUE AQUI O SEU TEXTO ......
+> A modelagem de software envolve a criação de representações abstratas que capturam a estrutura, comportamento e interações do software a ser desenvolvido. 
+> Esses modelos servem como guias visuais que auxiliam na compreensão e comunicação entre os membros da equipe de desenvolvimento. 
+> A modelagem de software abrange diversas técnicas, como diagramas de classes, diagramas de sequência e diagramas de caso de uso, proporcionando uma representação visual clara das relações e funcionalidades do sistema. 
+> Essa abordagem facilita a identificação precoce de requisitos e a detecção de inconsistências. 
+> Além disso, a modelagem contribui para a documentação eficaz, permitindo uma compreensão mais abrangente do software antes mesmo de sua implementação. 
+
 
 ## Tecnologias Utilizadas
 
 ......  COLOQUE AQUI O SEU TEXTO ......
 
-> Descreva aqui qual(is) tecnologias você vai usar para resolver o seu
-> problema, ou seja, implementar a sua solução. Liste todas as
-> tecnologias envolvidas, linguagens a serem utilizadas, serviços web,
-> frameworks, bibliotecas, IDEs de desenvolvimento, e ferramentas.
-> Apresente também uma figura explicando como as tecnologias estão
-> relacionadas ou como uma interação do usuário com o sistema vai ser
-> conduzida, por onde ela passa até retornar uma resposta ao usuário.
-> 
-> Inclua os diagramas de User Flow, esboços criados pelo grupo
-> (stoyboards), além dos protótipos de telas (wireframes). Descreva cada
-> item textualmente comentando e complementando o que está apresentado
-> nas imagens.
+> Descreva brevemente quais tecnologias e/ou frameworks foram utilizados no projeto.
+> Liste todas as tecnologias envolvidas, linguagens a serem utilizadas, serviços web, frameworks, bibliotecas, IDEs de desenvolvimento, e ferramentas.
 
 
 ## Arquitetura da solução
 
 ......  COLOQUE AQUI O SEU TEXTO E O DIAGRAMA DE ARQUITETURA .......
 
-> Inclua um diagrama da solução e descreva os módulos e as tecnologias
-> que fazem parte da solução. Discorra sobre o diagrama.
+> A arquitetura de software define a organização de um sistema, definindo seus componentes e suas relações.
+> Abrange escolhas de design que influenciam aspectos como desempenho, escalabilidade, segurança e manutenibilidade do software. 
+> A arquitetura de software serve como um mapa que orienta as decisões de desenvolvimento, fornecendo uma visão global que facilita a compreensão e a colaboração entre membros da equipe. 
+> Uma arquitetura bem projetada promove a modularidade, facilitando a evolução e a manutenção do sistema ao longo do tempo.
+
+> Inclua um diagrama da arquitetura do sistema. 
+> Explique e justifique a arquiteturas escolhida, com base nos objetivos do sistema, número de usuários esperados, tamanho da aplicação, previsão de expansão do sistema e orçamento do projeto.
 > 
-> **Exemplo do diagrama de Arquitetura**:
-> 
-> ![Exemplo de Arquitetura](images/arquitetura-exemplo.png)
-
-
-## Modelo de Dados
-
-......  COLOQUE AQUI O SEU TEXTO E O MODELO DE DADOS (BANCO DE DADOS) .......
-
-## Diagrama de Componentes
-
-......  COLOQUE AQUI O SEU TEXTO E O DIAGRAMA DE COMPONENTES .......
+> **Exemplo do diagrama de Arquitetura (Microserviços x Monolítica)**:
+> ![Exemplo Genérico de Arquitetura](images/arquitetura-sistema.png)
+>
+> **[Exemplo Arquitetura eShopOnContainers](https://learn.microsoft.com/pt-br/dotnet/architecture/microservices/multi-container-microservice-net-applications/microservice-application-design)**
+> ![Arquitetura eShopOnContainers](images/eshoponcontainers-architecture.png)
 
 
 ## Diagrama de Classes
 
 ......  COLOQUE AQUI O SEU TEXTO E O DIAGRAMA DE CLASSES .......
+
+> O diagrama de classes é uma fornece uma representação visual das estruturas e relações entre as classes em um sistema orientado a objetos. 
+> O diagrama serve como uma documentação visual eficaz, facilitando a compreensão, manutenção e evolução contínua do software.
+>
+> **Diagrama de Classes:**
+> Indique como as relações entre as classes utilizada para modelagem da solução desenvolvida.
+> Caso a solução fique muito grande, divida o diagrama de classes por módulos ou serviços.
+> Explique o diagrama, para que seja possível entender a solução proposta.
+
+## Persistência dos Dados
+
+......  COLOQUE AQUI O SEU TEXTO E O MODELOS DE DADOS .......
+
+> **Banco de Dados Relacional:**
+> Um diagrama relacional é uma representação gráfica que ilustra as tabelas e as relações entre elas em um banco de dados relacional. 
+> Ele descreve a estrutura do banco de dados, destacando as entidades, seus atributos e as conexões estabelecidas.
+>
+> **Banco de Dados No-SQL:**
+> Bancos de dados NoSQL representam uma categoria diversificada de sistemas de gerenciamento de dados que se afastam do modelo relacional tradicional. 
+> Ao contrário dos bancos de dados SQL, os NoSQL adotam abordagens mais flexíveis e escaláveis para armazenar e recuperar dados. 
+> Esses sistemas são particularmente eficazes em lidar com grandes volumes de dados não estruturados ou semiestruturados, como documentos, grafos, pares chave-valor e famílias de colunas.
+> 
+> **Diagrama de Banco de Dados:**
+> Indique como as informações serão persistitdas, incluindo nome do banco de dados (ou base de dados) e o diagrama representando as relações entre as informações.
+> Explique textualmente o diagrama, para que 
+
+
+
