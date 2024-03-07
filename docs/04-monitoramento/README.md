@@ -60,7 +60,7 @@
 > Devem ser fornecidos insights mensais sobre o andamento do projeto (últimos 30 dias).
 
 **Insight - Mês Março**
-![Insight - Mês Fevereiro](imagens/insights.png)
+![Insight - Mês Fevereiro](images/insights.png)
 
 **Insight - Mês Abril**
 > Adicione aqui insights do mês de Abril.
@@ -83,7 +83,7 @@
 > Se a linha de trabalho concluído se mantém abaixo da linha de escopo total, pode indicar que o projeto está atrasado.
 > Por outro lado, se a linha de trabalho concluído se mantém acima da linha de escopo total, isto pode indicar que o projeto está adiantado em relação ao planejado.
 
-![Burn-up](imagens/burn-up.png)
+![Burn-up](images/burn-up.png)
 
 ## Relatório de tarefas concluídas
 
@@ -93,4 +93,4 @@
 > Ao detalhar as tarefas concluídas por cada membro da equipe, o relatório permite uma análise mais precisa da distribuição de carga de trabalho, participação na realização das mesmas, identificação de possíveis gargalos ou pessoas que não estão contribuindo de forma adequada.
 > Este relatório poderá ser utilizado para definição de notas individuais aos alunos, diferentes daquelas definidas para o grupo.
 
-![Relatório de tarefas concluídas](imagens/tarefas-concluidas.png)
+![Relatório de tarefas concluídas](images/tarefas-concluidas.png)
