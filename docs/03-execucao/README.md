@@ -10,8 +10,8 @@
 - Esta seção irá simular a execução do projeto. 
 - Devido às características da disciplina, não será possível implementar o software (tempo insuficiente).
 - Com isso, apenas simularemos a construção do sistema nesta etapa.
-- Para isso, serão criados protótipos navegáveis, representando aquilo que seria efetivamente desenvolvido em termos de interface.
-- Diagramas arquiteturais, diagrama de banco de dados e de classe representarão a modelagem e implementação do código-fonte.
+- Para isso, serão criados protótipos navegáveis, representando aquilo que seria desenvolvido em termos de interface.
+- Diagramas arquiteturais, de banco de dados e de classe representarão a modelagem e implementação do código-fonte.
 ```
 
 # Estrutura do Documento
