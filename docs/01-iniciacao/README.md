@@ -304,7 +304,7 @@ A tabela a seguir, identifique os marcos do projeto e os entregáveis previstos 
 
 -----
 ```diff
-+ Tarefa 04:
++ Tarefa 03:
 + Metodologia do Projeto
 ```
 
@@ -352,7 +352,7 @@ A tabela a seguir, identifique os marcos do projeto e os entregáveis previstos 
 | Matriz RACI           | | | |
 
 ```diff
-+ Tarefa 04
++ Tarefa 03:
 + Fim da seção a ser atualizada.
 ```
 
