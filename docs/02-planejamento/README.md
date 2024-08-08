@@ -23,7 +23,6 @@
 - [Documentos](#documentos)
   - [Aquisição de Produtos](#aquisição-de-produtos)
   - [Checklist de Qualidade](#checklist-de-qualidade)
-  - [Escopo, Cronograma e Orçamento](#escopo-cronograma-e-orçamento)
   - [Plano de Gerência de Comunicação](#plano-de-gerenciamento-de-comunicação)
   - [Plano de Gerenciamento de Riscos](#plano-de-gerenciamento-de-riscos)
 
@@ -110,24 +109,56 @@
 + Fim da seção a ser atualizada.
 ```
 
+-----
+```diff
++ Tarefa 07:
++ Cronograma do Projeto
+```
+
 # Cronograma do Projeto
 
-......  COLOQUE AQUI O SEU TEXTO ......
+......  DESCREVA EM LINHAS GERAIS O CRONOGRAMA DO SEU PROJETO AQUI ......
 
 > O cronograma do projeto fornece uma representação temporal detalhada de todas as atividades, marcos e eventos ao longo do ciclo de vida do projeto. 
 > Elaborado durante o planejamento, o cronograma é uma ferramenta que oferece uma visão das interdependências entre as tarefas, alocando recursos e definindo prazos para as entregas.
 > Utilizando técnicas como a análise de rede (PERT/CPM) e estimativas de duração, o cronograma ajuda na identificação de caminhos críticos, permitindo aos gestores de projeto otimizar recursos, antecipar potenciais atrasos e tomar decisões. 
 > Além disso, o cronograma serve como um guia para monitorar o progresso, comunicar efetivamente com a equipe e as partes interessadas, e ajustar estratégias para garantir a conclusão bem-sucedida do projeto dentro dos prazos estabelecidos.
 
+### Documento Editável
+
+> Você deve atualiza o seguinte link (ou link correspondente), como o arquivo editável do Cronograma do Projeto:
+- [Cronograma e Orçamento do Projeto - Editável](artefatos/cronograma_orcamento.pod)
+
+```diff
++ Tarefa 07:
++ Fim da seção a ser atualizada.
+```
+
+-----
+```diff
++ Tarefa 08:
++ Orçamento do Projeto
+```
+
 # Orçamento do Projeto
 
-......  COLOQUE AQUI O SEU TEXTO ......
+......  DESCREVA EM LINHAS GERAIS O ORÇAMENTO DO SEU PROJETO AQUI ......
 
 > O orçamento do projeto envolve a estimativa e alocação de recursos financeiros necessários para a execução bem-sucedida do projeto, abrangendo custos diretos e indiretos, despesas operacionais, investimentos em equipamentos, pessoal, entre outros. 
 > O desenvolvimento do orçamento deve considerar variáveis como riscos, imprevistos e mudanças no escopo. 
 > Uma vez estabelecido, o orçamento serve como guia para a utilização eficiente dos recursos financeiros ao longo do projeto. 
 > A gestão do orçamento não apenas ajuda a controlar os custos, mas também fornece transparência e prestação de contas, permitindo que gestores tomem decisões informadas e evitem surpresas financeiras ao longo do ciclo de vida do projeto. 
 > Assim, o orçamento contribui para o sucesso do projeto, garantindo a viabilidade econômica e a entrega dentro das expectativas financeiras estabelecidas.
+
+### Documento Editável
+
+> Você deve atualiza o seguinte link (ou link correspondente), como o arquivo editável do Orçamento do Projeto:
+- [Cronograma e Orçamento do Projeto - Editável](artefatos/cronograma_orcamento.pod)
+
+```diff
++ Tarefa 08:
++ Fim da seção a ser atualizada.
+```
 
 # Planos de Gerenciamento
 
@@ -220,11 +251,6 @@
 
 > Você deve preencher o seguinte documento:
 - [Checklist de Qualidade](artefatos/checklist_qualidade.docx)
-
-## Escopo, Cronograma e Orçamento
-
-> Você deve preencher o seguinte documento:
-- [Cronograma e Orçamento do Projeto](artefatos/cronograma_orcamento.pod)
 
 ## Plano de Gerenciamento de Comunicação
 
