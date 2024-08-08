@@ -31,6 +31,12 @@
 
 # Introdução
 
+-----
+```diff
+- Início da Tarefa 01.
+```
+-----
+
 ## Problema
 
 ......  COLOQUE AQUI O SEU TEXTO ......
@@ -59,14 +65,6 @@
 
 > Apresente uma visão geral do que será abordado nesta parte do documento, enumerando as técnicas e/ou ferramentas utilizadas para
 realizar as especificações do projeto.
-
-## Critérios de Sucesso
-
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Os critérios de sucesso de um projeto fornecem uma estrutura clara para avaliar o êxito do trabalho e analisar se o projeto realmente alcançou os objetivos estabelecidos. 
-> Esses critérios geralmente abrangem diversas dimensões, incluindo a entrega dentro do prazo e orçamento estipulados, a satisfação do cliente, a qualidade do produto ou serviço final, e a eficiência na utilização de recursos. 
-> Além disso, a capacidade de atender aos requisitos e expectativas das partes interessadas, bem como a gestão eficaz de riscos, são considerados aspectos importantes para determinar o sucesso de um projeto. 
  
 ## Histórias de Usuários
 
@@ -157,6 +155,19 @@ A tabela a seguir apresenta as restrições do projeto.
 > Relacione as partes interessadas no seu projeto. 
 > Você deve descrever as partes interessadas e indicar qual o nível de influência em relação ao projeto.
 > Indique as principais pessoas (clientes, fornecedores, etc), indicando possíveis expectativas, nível de influência e possível importância para o sucesso do projeto.
+>
+| Nome            | Posição / Cargo | Papel Projeto | Email       | Telefone    |
+|-----------------|-----------------|---------------|-------------|-------------|
+|                 |                 |               |             |             |
+|                 |                 |               |             |             |
+|                 |                 |               |             |             |
+|                 |                 |               |             |             |
+
+-----
+```diff
+- Fim da Tarefa 01.
+```
+-----
 
 # Estimativa de Custo e Prazo
 
