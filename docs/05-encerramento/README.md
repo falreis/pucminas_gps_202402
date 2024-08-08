@@ -14,6 +14,12 @@
 - [Auto-avaliação](#auto)
 - [Sugestões e Críticas](#sugestões-e-críticas)
 
+----
+```diff
++ Tarefa 13:
++ Encerramento do Projeto
+```
+
 # Encerramento do Projeto
 
 ......  COLOQUE AQUI O SEU TEXTO ......
@@ -52,3 +58,11 @@
 >
 > Utilize esta seção para indicar sugestões e críticas acerca da disciplina e do formato aqui trabalhado.
 > Tanto sugestões quanto críticas são sempre bem vindas!
+
+
+```diff
++ Tarefa 13
++ Fim da seção a ser atualizada.
+```
+
+
