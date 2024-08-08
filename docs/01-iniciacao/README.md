@@ -33,7 +33,7 @@
 
 -----
 ```diff
-- Início da Tarefa 01.
++ Início da Tarefa 01: Tema do projeto e lista de Stakeholders
 ```
 -----
 
@@ -58,6 +58,61 @@
 > **Link Útil**:
 > - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
 
+# Partes Interessadas
+
+> Relacione as partes interessadas no seu projeto. 
+> Você deve descrever as partes interessadas e indicar qual o nível de influência em relação ao projeto.
+> Indique as principais pessoas (clientes, fornecedores, etc), indicando possíveis expectativas, nível de influência e possível importância para o sucesso do projeto.
+>
+
+## Identificação das Partes Interessadas
+
+| Nome            | Posição / Cargo | Papel Projeto | E-mail      | Telefone    |
+|-----------------|-----------------|---------------|-------------|-------------|
+|                 |                 |               |             |             |
+|                 |                 |               |             |             |
+|                 |                 |               |             |             |
+|                 |                 |               |             |             |
+|                 |                 |               |             |             |
+|                 |                 |               |             |             |
+|                 |                 |               |             |             |
+|                 |                 |               |             |             |
+
+> Opções de identificação dos stakeholders:
+> - Nome: nome da parte interessada (inclui funcionários da empresa e do cliente)
+> - Posição / Cargo: Identificação do cargo da parte interessada
+> - - Ex.: Gerente de TI, Funcionário da Linha de Produção, Presidente, Analista de Sistema do Cliente, Desenvolvedor, etc.
+> - Papel no Projeto: Papel da pessoa no projeto
+> - - Ex.: Desenvolvedor, Analista de Requisitos, Analista de Testes, Product Owner, etc.
+> - E-mail: E-mail do Stakeholder (*não utilizar informações pessoais*)
+> - Telefone: Telefone do Stakeholder, incluindo WhatsApp (*não utilizar informações pessoais*)
+
+## Avaliação das Partes Interessadas
+
+| Nome            | Expectativa no Projeto | Influência    | Importância / Poder | Apoio       | Observações   |
+|-----------------|------------------------|---------------|---------------------|-------------|---------------|
+|                 |                        |               |                     |             |               |
+|                 |                        |               |                     |             |               |
+|                 |                        |               |                     |             |               |
+|                 |                        |               |                     |             |               |
+|                 |                        |               |                     |             |               |
+|                 |                        |               |                     |             |               |
+|                 |                        |               |                     |             |               |
+|                 |                        |               |                     |             |               |
+
+> Opções de avaliação:
+> - Expectativa: descrição da expectativa da parte interessada no projeto.
+> - - Ex.: Diminuição do tempo de realização das tarefas, aumento da produtividade, aumento da satisfação do cliente, etc.
+> - Influência: Alta, Média, Baixa
+> - Importância: Alta, Média, Baixa
+> - Apoio: Positivo, Negativo, Neutro
+> - Observações: Informações adicionais, para o cliente.
+
+-----
+```diff
++ Fim da Tarefa 01: Tema do projeto e lista de Stakeholders
+```
+-----
  
 # Especificações do Projeto
 
@@ -147,27 +202,6 @@ A tabela a seguir apresenta as restrições do projeto.
 |------|-----------------------------------------|-------|
 |RE-001| Permitir que o usuário cadastre tarefas | ALTA | 
 |RE-002| Emitir um relatório de tarefas no mês   | MÉDIA |
-
-# Partes Interessadas
-
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Relacione as partes interessadas no seu projeto. 
-> Você deve descrever as partes interessadas e indicar qual o nível de influência em relação ao projeto.
-> Indique as principais pessoas (clientes, fornecedores, etc), indicando possíveis expectativas, nível de influência e possível importância para o sucesso do projeto.
->
-| Nome            | Posição / Cargo | Papel Projeto | Email       | Telefone    |
-|-----------------|-----------------|---------------|-------------|-------------|
-|                 |                 |               |             |             |
-|                 |                 |               |             |             |
-|                 |                 |               |             |             |
-|                 |                 |               |             |             |
-
------
-```diff
-- Fim da Tarefa 01.
-```
------
 
 # Estimativa de Custo e Prazo
 
