@@ -31,10 +31,6 @@
 - [Metodologia](#metodologia)
   - [Divisão de Papéis](#divisão-de-papéis)
   - [Ferramentas](#ferramentas)
-- [Documentos](#documentos)
-  - [Declaração de Escopo](#declaração-de-escopo)
-  - [Registro de Partes Interessadas](#registro-de-partes-interessadas)
-  - [Termo de Abertura do Projeto (TAP)](#termo-de-abertura-do-projeto-tap)
 
 # Introdução
 
@@ -87,7 +83,9 @@
 > Relacione as partes interessadas no seu projeto. 
 > Você deve descrever as partes interessadas e indicar qual o nível de influência em relação ao projeto.
 > Indique as principais pessoas (clientes, fornecedores, etc), indicando possíveis expectativas, nível de influência e possível importância para o sucesso do projeto.
->
+
+> Você pode utilizar como referência o seguinte documento:
+> [Registro de Partes Interessadas](artefatos/registro-partes-interessadas.xlsx)
 
 ## Identificação das Partes Interessadas
 
@@ -152,7 +150,7 @@
 > Ao delinear esses elementos de forma detalhada, o Termo de Abertura do Projeto (TAP) fornece uma direção sólida para orientar as atividades subsequentes, facilitando a gestão eficaz do projeto desde o início até o encerramento. 
 > Essa documentação garante a clareza, alinhamento e comprometimento de todos os envolvidos, contribuindo assim para o sucesso do projeto.
 
-> Você pode utilizar como referência o seguinte documento (não obrigatório):
+> Você pode utilizar como referência o seguinte documento:
 > [Termo de Abertura do Projeto](artefatos/termo-abertura-projeto.docx)
 
 ## Estimativa de Custo
@@ -201,8 +199,12 @@
 > 
 > ***A quantidade mínima de requisitos a serem preenchidos nas seções abaixo não incluem os exemplos previamente fornecidos.***
 
-> Com base nas Histórias de Usuário, enumere os requisitos da sua
-> solução. Classifique esses requisitos em dois grupos:
+## Declaração de Escopo
+
+> Você pode utilizar como referência o seguinte documento:
+- [Declaração de Escopo](artefatos/declaracao-escopo.docx)
+
+> Enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
 >
 > - [Requisitos Funcionais (RF)](https://pt.wikipedia.org/wiki/Requisito_funcional):
 >   correspondem a uma funcionalidade que deve estar presente na
@@ -302,7 +304,7 @@ A tabela a seguir, identifique os marcos do projeto e os entregáveis previstos 
 
 -----
 ```diff
-+ Tarefa 03:
++ Tarefa 04:
 + Metodologia do Projeto
 ```
 
@@ -350,22 +352,8 @@ A tabela a seguir, identifique os marcos do projeto e os entregáveis previstos 
 | Matriz RACI           | | | |
 
 ```diff
-+ Tarefa 03
++ Tarefa 04
 + Fim da seção a ser atualizada.
 ```
 
 ----
-# Documentos
-
-> Esta seção deve ser utilizada para armazenamento e listagem dos documentos e artefatos produzidos durante as aulas.
-> Atualize os documentos nos respectivos links.
-
-## Declaração de Escopo
-
-> Você deve preencher o seguinte documento:
-- [Declaração de Escopo](artefatos/declaracao-escopo.docx)
-
-## Registro de Partes Interessadas
-
-> Você deve preencher o seguinte documento:
-- [Registro de Partes Interessadas](artefatos/registro-partes-interessadas.xlsx)
