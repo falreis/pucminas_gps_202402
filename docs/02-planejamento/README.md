@@ -24,8 +24,6 @@
   - [Aquisição de Produtos](#aquisição-de-produtos)
   - [Checklist de Qualidade](#checklist-de-qualidade)
   - [Escopo, Cronograma e Orçamento](#escopo-cronograma-e-orçamento)
-  - [Estrutura Analítica do Projeto (EAP)](#estrutura-analítica-do-projeto-eap)
-  - [Matriz de Responsabilidades (RACI)](#matriz-de-responsabilidades-raci)
   - [Plano de Gerência de Comunicação](#plano-de-gerenciamento-de-comunicação)
   - [Plano de Gerenciamento de Riscos](#plano-de-gerenciamento-de-riscos)
 
@@ -55,17 +53,29 @@
 > A EAP serve como a base para a criação do cronograma do projeto, a alocação de recursos e a identificação de dependências. 
 > Essa abordagem estruturada contribui significativamente para o sucesso do projeto, garantindo uma compreensão abrangente do escopo e uma base sólida para a gestão eficaz do trabalho ao longo do ciclo de vida do projeto.
 
-> **Exemplo de EAP:**
-> ![Exemplo de EAP](images/exemplo_wbs.png)
+> Crie uma nova imagem da Estrutura Analítica do Projeto. Não se esqueça de adicionar o documento editável no repositório.
+
+![Estrutura Analítica do Projeto](images/exemplo_wbs.png)
 
 > Softwares recomendados: 
 > * [WBS Schedule Pro (Demo)](https://www.criticaltools.com/)
 > * [Draw.io](https://app.diagrams.net/)
 > * [ProjectLibre](https://www.projectlibre.com/)
 
+### Documento Editável
+
+> Você deve atualiza o seguinte link (ou link correspondente), como o arquivo editável de geração da WBS:
+- [Estrutura Analítica do Projeto - Editável](artefatos/estrutura_analitica_projeto.wbs)
+
 ```diff
 + Tarefa 04:
 + Fim da seção a ser atualizada.
+```
+
+-----
+```diff
++ Tarefa 05:
++ Matriz de Responsabilidades (RACI)
 ```
 
 # Matriz de Responsabilidades
@@ -84,6 +94,21 @@
 > * **I**nformed    -> Informado (pessoas interessadas no projeto que devem ser informadas sobre a execução).
 > 
 > Link de auxílio: https://www.forbes.com/advisor/business/raci-chart/
+
+> Crie uma nova imagem da Estrutura Analítica do Projeto. Não se esqueça de adicionar o documento editável no repositório.
+
+![Matriz RACI](images/raci.png)
+
+
+### Documento Editável
+
+> Você deve atualiza o seguinte link (ou link correspondente), como o arquivo editável da Matriz RACI:
+- [Matriz de Responsabilidades (RACI) - Editável](artefatos/matriz-raci.docx)
+
+```diff
++ Tarefa 05:
++ Fim da seção a ser atualizada.
+```
 
 # Cronograma do Projeto
 
@@ -200,16 +225,6 @@
 
 > Você deve preencher o seguinte documento:
 - [Cronograma e Orçamento do Projeto](artefatos/cronograma_orcamento.pod)
-
-## Estrutura Analítica do Projeto (EAP)
-
-> Você deve preencher o seguinte documento:
-- [Estrutura Analítica do Projeto](artefatos/estrutura_analitica_projeto.wbs)
-
-## Matriz de Responsabilidades (RACI)
-
-> Você deve preencher o seguinte documento:
-- [Declaração de Escopo](artefatos/declaracao-escopo.docx)
 
 ## Plano de Gerenciamento de Comunicação
 
