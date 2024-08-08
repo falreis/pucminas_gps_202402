@@ -168,7 +168,7 @@
 
 ## Plano de Qualidade
 
-......  COLOQUE AQUI O SEU TEXTO ......
+...... DESCREVA SUCINTAMENTE O PLANO DE QUALIDADE UTILIZADO NO PROJETO ......
 
 > O Plano de Qualidade auxilia a garantir que as entregas do projeto atendam aos padrões de qualidade definidos. 
 > Este plano abrange atividades como definição de padrões, procedimentos de garantia de qualidade, critérios de aceitação e processos de monitoramento e controle da qualidade ao longo do ciclo de vida do projeto. 
@@ -194,7 +194,7 @@
 > * https://www.projectmanager.com/blog/quality-assurance-and-testing
 
 > Você pode utilizar como referência o seguinte documento:
-> [Checklist de Qualidade - Editável](artefatos/checklist_qualidade.docx)
+> [Checklist de Qualidade](artefatos/checklist_qualidade.docx)
 
 ### Artefatos a serem verificados
 
