@@ -156,8 +156,6 @@
 
 # Planos de Gerenciamento
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
 > Os planos de gerenciamento do projetos consolidam as diretrizes e estratégias para a execução bem-sucedida de um empreendimento. 
 > Ele abrange diversos aspectos, como escopo, cronograma, custos, riscos, qualidade, recursos humanos, comunicação e aquisições, proporcionando uma visão abrangente e integrada do projeto. 
 > Este plano funciona como um guia mestre que orienta a equipe de projeto e as partes interessadas ao longo do ciclo de vida do projeto, estabelecendo expectativas, responsabilidades e processos. 
@@ -195,10 +193,56 @@
 > * https://www.testbytes.net/blog/quality-assurance-process-methodology/
 > * https://www.projectmanager.com/blog/quality-assurance-and-testing
 
-### Documento Editável
+> Você pode utilizar como referência o seguinte documento:
+> [Checklist de Qualidade - Editável](artefatos/checklist_qualidade.docx)
 
-> Você deve atualiza o seguinte link (ou link correspondente), como o arquivo editável de geração da WBS:
-- [Checklist de Qualidade - Editável](artefatos/checklist_qualidade.docx)
+### Artefatos a serem verificados
+
+| Artefato   | Tipo Verif. | Data        | Responsável | Métrica     | Data Correção | Ação Não Conform. | Resp. Avaliação | Resp. Correção |
+|------------|-------------|-------------|-------------|-------------|---------------|-------------------|-----------------|----------------|
+|            |             |             |             |             |               |                   |                 |                |
+|            |             |             |             |             |               |                   |                 |                |
+|            |             |             |             |             |               |                   |                 |                |
+|            |             |             |             |             |               |                   |                 |                |
+|            |             |             |             |             |               |                   |                 |                |
+|            |             |             |             |             |               |                   |                 |                |
+
+### Padrões e Normas Utilizadas
+
+| Nome       | Descrição   | 
+|------------|-------------|
+|            |             |
+|            |             |
+|            |             |
+|            |             |
+|            |             |
+
+### Ambiente das Atividades de Qualidade
+
+| Ambiente   | Descrição   | 
+|------------|-------------|
+|            |             |
+|            |             |
+|            |             |
+|            |             |
+
+### Equipe de Qualidade
+
+| Nome       | Responsabilidade | 
+|------------|------------------|
+|            |                  |
+|            |                  |
+|            |                  |
+|            |                  |
+|            |                  |
+
+### Metodologias de Qualidade Utilizadas
+
+| Nome       | Descrição   | 
+|------------|-------------|
+|            |             |
+|            |             |
+|            |             |
 
 ```diff
 + Tarefa 09:
