@@ -15,16 +15,10 @@
 - [Cronograma do Projeto](#cronograma-do-projeto)
 - [Orçamento do Projeto](#orçamento-do-projeto)
 - [Planos de Gerenciamento](#planos-de-gerenciamento)
-  - [Plano de Comunicação](#plano-de-comunicação)
   - [Plano de Qualidade](#plano-de-qualidade)
-  - [Plano de Riscos](#plano-de-riscos)
   - [Plano de Aquisição](#plano-de-aquisição)
-  - [Plano de Gestão de RH](#plano-de-gestão-de-rh)
-- [Documentos](#documentos)
-  - [Aquisição de Produtos](#aquisição-de-produtos)
-  - [Checklist de Qualidade](#checklist-de-qualidade)
-  - [Plano de Gerência de Comunicação](#plano-de-gerenciamento-de-comunicação)
-  - [Plano de Gerenciamento de Riscos](#plano-de-gerenciamento-de-riscos)
+  - [Plano de Comunicação](#plano-de-comunicação)
+  - [Plano de Riscos](#plano-de-riscos)
 
 -----
 ```diff
@@ -169,13 +163,10 @@
 > Este plano funciona como um guia mestre que orienta a equipe de projeto e as partes interessadas ao longo do ciclo de vida do projeto, estabelecendo expectativas, responsabilidades e processos. 
 > Além disso, serve como um instrumento de comunicação, alinhando as expectativas entre os membros da equipe e as partes interessadas, mitigando riscos e fornecendo uma estrutura sólida para a tomada de decisões. 
 
-## Plano de Comunicação
-
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> O Plano de Comunicação estabelece estratégias e diretrizes para facilitar a troca de informações entre os membros da equipe e as partes interessadas. 
-> Este plano abrange aspectos como os meios de comunicação, a frequência das atualizações, os canais de distribuição de informações e os responsáveis pela comunicação. 
-> Uma comunicação eficiente não apenas previne mal-entendidos e conflitos, mas também fortalece o engajamento da equipe e o apoio das partes interessadas. 
+```diff
++ Tarefa 09:
++ Checklist de Qualidade
+```
 
 ## Plano de Qualidade
 
@@ -204,6 +195,69 @@
 > * https://www.testbytes.net/blog/quality-assurance-process-methodology/
 > * https://www.projectmanager.com/blog/quality-assurance-and-testing
 
+### Documento Editável
+
+> Você deve atualiza o seguinte link (ou link correspondente), como o arquivo editável de geração da WBS:
+- [Checklist de Qualidade - Editável](artefatos/checklist_qualidade.docx)
+
+```diff
++ Tarefa 09:
++ Fim da seção a ser atualizada.
+```
+
+```diff
++ Tarefa 10:
++ Especificação de Produto para Aquisição
+```
+
+## Plano de Aquisição
+
+......  COLOQUE AQUI O SEU TEXTO ......
+
+> O Plano de Aquisições define o processo relacionado à aquisição de bens e serviços necessários para a execução do projeto. 
+> Este plano abrange a identificação de necessidades, a seleção de fornecedores, a elaboração de contratos, e a gestão do relacionamento com os fornecedores durante do ciclo de vida do projeto. 
+> O Plano de Aquisições visa garantir a aquisição eficiente e eficaz dos recursos necessários, minimizando riscos e custos. 
+> Além disso, ele proporciona transparência nas relações com fornecedores, promovendo a conformidade com os prazos estabelecidos e padrões de qualidade. 
+
+### Documento Editável
+
+> Você deve atualiza o seguinte link (ou link correspondente), como o arquivo editável de geração da WBS:
+- [Especificação Produto Aquisição - Editável](artefatos/aquisicao_produtos.docx)
+
+```diff
++ Tarefa 10:
++ Fim da seção a ser atualizada.
+```
+
+```diff
++ Tarefa 11:
++ Plano de Comunicação
+```
+
+## Plano de Comunicação
+
+......  COLOQUE AQUI O SEU TEXTO ......
+
+> O Plano de Comunicação estabelece estratégias e diretrizes para facilitar a troca de informações entre os membros da equipe e as partes interessadas. 
+> Este plano abrange aspectos como os meios de comunicação, a frequência das atualizações, os canais de distribuição de informações e os responsáveis pela comunicação. 
+> Uma comunicação eficiente não apenas previne mal-entendidos e conflitos, mas também fortalece o engajamento da equipe e o apoio das partes interessadas. 
+
+### Documento Editável
+
+> Você deve atualiza o seguinte link (ou link correspondente), como o arquivo editável de geração da WBS:
+- [Plano de Gerenciamento de Comunicação - Editável](artefatos/plano_comunicacao.docx)
+
+
+```diff
++ Tarefa 11:
++ Fim da seção a ser atualizada.
+```
+
+```diff
++ Tarefa 12:
++ Riscos do Projeto
+```
+
 ## Plano de Riscos
 
 ......  COLOQUE AQUI O SEU TEXTO ......
@@ -218,46 +272,20 @@
 > Isso inclui a definição de ações preventivas para mitigar riscos antes que se materializem, bem como estratégias de mitigação para minimizar seu impacto se ocorrerem. 
 > Além disso, a identificação de pontos de monitoramento contínuo ao longo do projeto permite uma resposta ágil às mudanças nas condições do ambiente.
 
-## Plano de Aquisição
+### Documento Editável
 
-......  COLOQUE AQUI O SEU TEXTO ......
+> Você deve atualiza o seguinte link (ou link correspondente), como o arquivo editável de geração da WBS:
+- [Plano de Gerenciamento de Riscos - Editável](artefatos/plano_riscos.docx)
 
-> O Plano de Aquisições define o processo relacionado à aquisição de bens e serviços necessários para a execução do projeto. 
-> Este plano abrange a identificação de necessidades, a seleção de fornecedores, a elaboração de contratos, e a gestão do relacionamento com os fornecedores durante do ciclo de vida do projeto. 
-> O Plano de Aquisições visa garantir a aquisição eficiente e eficaz dos recursos necessários, minimizando riscos e custos. 
-> Além disso, ele proporciona transparência nas relações com fornecedores, promovendo a conformidade com os prazos estabelecidos e padrões de qualidade. 
+```diff
++ Tarefa 12:
++ Fim da seção a ser atualizada.
+```
 
-## Plano de Gestão de RH
-
-......  *(OPCIONAL)* COLOQUE AQUI O SEU TEXTO ......
-
-> O Plano de Gestão de Recursos Humanos (RH) estabelece estratégias para o gerenciamento eficaz da equipe.
-> Este plano abrange aspectos como a identificação das necessidades de recursos humanos, a alocação de pessoal, o desenvolvimento de competências, a definição de papéis e responsabilidades, e estratégias de motivação e retenção da equipe. 
-> Este plano visa otimizar o desempenho da equipe, promovendo um ambiente de trabalho colaborativo, em que as habilidades certas estejam disponíveis no momento adequado. 
-> Além disso, aborda a comunicação interna, resolução de conflitos e planos de desenvolvimento profissional. 
+-----
 
 
-# Documentos
 
-> Esta seção deve ser utilizada para armazenamento e listagem dos documentos e artefatos produzidos durante as aulas.
-> Atualize os documentos nos respectivos links.
 
-## Aquisição de Produtos
 
-> Você deve preencher o seguinte documento:
-- [Declaração de Escopo](artefatos/aquisicao_produtos.docx)
 
-## Checklist de Qualidade
-
-> Você deve preencher o seguinte documento:
-- [Checklist de Qualidade](artefatos/checklist_qualidade.docx)
-
-## Plano de Gerenciamento de Comunicação
-
-> Você deve preencher o seguinte documento:
-- [Plano de Gerenciamento de Comunicação](artefatos/plano_comunicacao.docx)
-
-## Plano de Gerenciamento de Riscos
-
-> Você deve preencher o seguinte documento:
-- [Plano de Gerenciamento de Riscos](artefatos/plano_riscos.docx)
