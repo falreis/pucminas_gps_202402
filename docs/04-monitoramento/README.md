@@ -10,10 +10,6 @@
 
 - [Fase de Monitoramento](#monitoramento)
 - [Atas de Reunião](#atas-de-reunião)
-- [Relatórios de Desempenho](#relatórios-de-desempenho)
-  - [Insights do repositório](#insights-do-repositório)
-  - [Burn-up do projeto](#burn-up-do-projeto)
-  - [Relatório de tarefas concluídas](#relatório-de-tarefas-concluídas)
 
 # Atas de Reunião
 
