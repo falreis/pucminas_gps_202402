@@ -33,7 +33,8 @@
 
 -----
 ```diff
-+ Início da Tarefa 01: Tema do projeto e lista de Stakeholders
++ Tarefa 01:
++ Tema do projeto e lista de Stakeholders
 ```
 -----
 
@@ -110,7 +111,8 @@
 
 -----
 ```diff
-+ Fim da Tarefa 01: Tema do projeto e lista de Stakeholders
++ Tarefa 01
++ Fim da seção a ser atualizada.
 ```
 -----
  
