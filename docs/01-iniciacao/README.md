@@ -27,6 +27,7 @@
     - [Restrições](#restrições)
     - [Contra-Escopo](#contra-escopo)
     - [Condições para início do Projeto](#condições-para-início-do-projeto)
+  - [Marcos Agendados e Entregas](#marcos-agendados-e-entregas)
 - [Metodologia](#metodologia)
   - [Divisão de Papéis](#divisão-de-papéis)
   - [Ferramentas](#ferramentas)
@@ -37,12 +38,10 @@
 
 # Introdução
 
------
 ```diff
 + Tarefa 01:
 + Tema do projeto e lista de Stakeholders
 ```
------
 
 ## Problema
 
@@ -133,19 +132,17 @@
 > - Apoio: Positivo, Negativo, Neutro
 > - Observações: Informações adicionais, para o cliente.
 
------
 ```diff
 + Tarefa 01
 + Fim da seção a ser atualizada.
 ```
------
+
 
 -----
 ```diff
 + Tarefa 02
 + Termo de Abertura do Projeto
 ```
------
 
 # Termo de Abertura do Projeto
 
@@ -283,12 +280,31 @@ A tabela a seguir, apresente as condições para que o projeto seja iniciado.
 |CI-001| Assinatura de contrato de prestação de serviços. |
 |CI-002| Apresentação de garantias definidas no contrato. |
 
------
+## Marcos Agendados e Entregas
+
+......  ATUALIZE OS MARCOS AGENDADOS DO PROJETO E AS DATAS PARA ENTREGAS DAS TAREFAS ......
+
+A tabela a seguir, identifique os marcos do projeto e os entregáveis previstos (requisitos).
+
+|ID   | Marco do Projeto                                                  | 
+|-----|-------------------------------------------------------------------|
+|M-1  | Liberação do sistema para cadastro de informações e configuração. |
+|M-2  | Permissão para uso do sistema, por usuários focais.               |
+|M-3  |                                                                   |
+|M-4  |                                                                   |
+|M-5  |                                                                   |
+|M-6  |                                                                   |
+
 ```diff
 + Tarefa 02
 + Fim da seção a ser atualizada.
 ```
+
 -----
+```diff
++ Tarefa 03:
++ Metodologia do Projeto
+```
 
 # Metodologia
 
@@ -333,6 +349,12 @@ A tabela a seguir, apresente as condições para que o projeto seja iniciado.
 | Cronograma do Projeto | | | |
 | Matriz RACI           | | | |
 
+```diff
++ Tarefa 03
++ Fim da seção a ser atualizada.
+```
+
+----
 # Documentos
 
 > Esta seção deve ser utilizada para armazenamento e listagem dos documentos e artefatos produzidos durante as aulas.
