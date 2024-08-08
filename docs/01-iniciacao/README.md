@@ -59,6 +59,24 @@
 > **Link Útil**:
 > - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
 
+
+## Justificativa
+
+......  COLOQUE AQUI O SEU TEXTO ......
+
+> Aqui você deve descrever os benefícios esperados pela construção do projeto.
+> As justificativas do projeto explicam as razões e a necessidade da iniciativa.
+> Elas demonstram como o projeto atende a uma demanda específica, resolve um problema ou aproveita uma oportunidade identificada.
+> Além disso, definem os benefícios esperados e o impacto previsto para a organização ou a comunidade. 
+
+## Critérios de Sucesso
+
+......  COLOQUE AQUI O SEU TEXTO ......
+
+> Os critérios de sucesso indicam uma forma avaliar o êxito do trabalho e analisar se o projeto realmente alcançou os objetivos estabelecidos. 
+> Esses critérios geralmente abrangem diversas dimensões, incluindo a entrega dentro do prazo e orçamento estipulados, a satisfação do cliente, a qualidade do produto ou serviço final, e a eficiência na utilização de recursos. 
+> Além disso, a capacidade de atender aos requisitos e expectativas das partes interessadas, bem como a gestão eficaz de riscos, são considerados aspectos importantes para determinar o sucesso de um projeto. 
+
 # Partes Interessadas
 
 > Relacione as partes interessadas no seu projeto. 
@@ -173,13 +191,6 @@
 * Prazo previsto (em horas): XX horas
 * Data de início: __ / __ / _____
 * Data de término: __ / __ / _____
-
-# Especificações do Projeto
-
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Apresente uma visão geral do que será abordado nesta parte do documento, enumerando as técnicas e/ou ferramentas utilizadas para
-realizar as especificações do projeto.
 
 ## Escopo Preliminar e Premissas
 
