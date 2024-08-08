@@ -115,97 +115,24 @@
 + Fim da seção a ser atualizada.
 ```
 -----
- 
-# Especificações do Projeto
 
-......  COLOQUE AQUI O SEU TEXTO ......
+-----
+```diff
++ Tarefa 02
++ Termo de Abertura do Projeto
+```
+-----
 
-> Apresente uma visão geral do que será abordado nesta parte do documento, enumerando as técnicas e/ou ferramentas utilizadas para
-realizar as especificações do projeto.
- 
-## Histórias de Usuários
+# Termo de Abertura do Projeto (TAP)
 
-......  ATUALIZE AS HISTÓRIAS DE USUÁRIOS ABAIXO (MÍNIMO 20) ......
+> O Termo de Abertura do Projeto (TAP) representa o ponto de partida oficial para o empreendimento. 
+> Ele sintetiza de maneira clara e concisa os objetivos, escopo, partes interessadas envolvidas, entregas esperadas, cronograma preliminar e recursos necessários para a execução bem-sucedida do projeto. 
+> O TAP funciona como um contrato inicial entre a equipe do projeto e as partes interessadas, estabelecendo as bases para uma compreensão compartilhada dos propósitos e limites do projeto. 
+> Ao delinear esses elementos de forma detalhada, o Termo de Abertura do Projeto (TAP) fornece uma direção sólida para orientar as atividades subsequentes, facilitando a gestão eficaz do projeto desde o início até o encerramento. 
+> Essa documentação garante a clareza, alinhamento e comprometimento de todos os envolvidos, contribuindo assim para o sucesso do projeto.
 
-Com base na análise das personas forma identificadas as seguintes histórias de usuários:
-
-|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
-|--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
-
-> Seguindo o modelo acima, apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. 
-> As Histórias de Usuário consistem em uma ferramenta importante para a compreensão e elicitação dos requisitos.
-> Defina atores (ou personas), se for o caso, um administrador para criação das histõrias de usuário.
-> As histórias de usuário posteriormente devem ser utilizadas para preenchimento dos Requisitos Funcionais.
->
-> **Links Úteis**:
-> - [Histórias de usuários com exemplos e template](https://www.atlassian.com/br/agile/project-management/user-stories)
-> - [Como escrever boas histórias de usuário (User Stories)](https://medium.com/vertice/como-escrever-boas-users-stories-hist%C3%B3rias-de-usu%C3%A1rios-b29c75043fac)
-
-## Requisitos Preliminares
-
-> Os requisitos preliminares fornecem uma visão inicial do escopo, funcionalidades-chave e as expectativas a serem atendidas. 
-> 
-> ***A quantidade mínima de requisitos a serem preenchidos nas seções abaixo não incluem os exemplos previamente fornecidos.***
-
-> Com base nas Histórias de Usuário, enumere os requisitos da sua
-> solução. Classifique esses requisitos em dois grupos:
->
-> - [Requisitos Funcionais (RF)](https://pt.wikipedia.org/wiki/Requisito_funcional):
->   correspondem a uma funcionalidade que deve estar presente na
->   plataforma (ex: cadastro de usuário).
->
-> - [Requisitos Não Funcionais (RNF)](https://pt.wikipedia.org/wiki/Requisito_n%C3%A3o_funcional):
->   correspondem a uma característica técnica, seja de usabilidade,
->   desempenho, confiabilidade, segurança ou outro (ex: suporte a
->   dispositivos iOS e Android).
->
-> Lembre-se que cada requisito deve corresponder à uma e somente uma
-> característica alvo da sua solução. Além disso, certifique-se de que
-> todos os aspectos capturados nas Histórias de Usuário foram cobertos.
-> 
-> **Links Úteis**:
-> 
-> - [O que são Requisitos Funcionais e Requisitos Não Funcionais?](https://codificar.com.br/requisitos-funcionais-nao-funcionais/)
-> - [O que são requisitos funcionais e requisitos não funcionais?](https://analisederequisitos.com.br/requisitos-funcionais-e-requisitos-nao-funcionais-o-que-sao/)
-
-
-### Requisitos Funcionais
-
-......  ATUALIZE OS REQUISITOS FUNCIONAIS DO SISTEMA (MÍNIMO 20) ......
-
-A tabela a seguir apresenta os requisitos funcionais do projeto. 
-
-|ID    | Descrição do Requisito  | Prioridade |
-|------|-----------------------------------------|-------|
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
-
-### Requisitos Não Funcionais
-
-......  ATUALIZE OS REQUISITOS NÃO FUNCIONAIS DO SISTEMA (MÍNIMO 5) ......
-
-A tabela a seguir apresenta os requisitos não funcionais do projeto. 
-
-|ID     | Descrição do Requisito                                            |Prioridade |
-|-------|-------------------------------------------------------------------|-----------|
-|RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA     | 
-|RNF-002| Deve processar requisições do usuário em no máximo 3s             | BAIXA     | 
-
-
-### Restrições
-
-......  ATUALIZE AS RESTRIÇÕES DO SISTEMA (MÍNIMO 5) ......
-
-A tabela a seguir apresenta as restrições do projeto. 
-
-|ID    | Descrição do Requisito  | Prioridade |
-|------|-----------------------------------------|-------|
-|RE-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RE-002| Emitir um relatório de tarefas no mês   | MÉDIA |
-
-# Estimativa de Custo e Prazo
+> Você pode utilizar como referência o seguinte documento (não obrigatório):
+> [Termo de Abertura do Projeto](artefatos/termo-abertura-projeto.docx)
 
 ## Estimativa de Custo
 
@@ -242,6 +169,109 @@ A tabela a seguir apresenta as restrições do projeto.
 > * Prazo previsto (em horas) 
 > * Data de início
 > * Data de término
+
+* Prazo previsto (em horas): XX horas
+* Data de início: __ / __ / _____
+* Data de término: __ / __ / _____
+
+# Especificações do Projeto
+
+......  COLOQUE AQUI O SEU TEXTO ......
+
+> Apresente uma visão geral do que será abordado nesta parte do documento, enumerando as técnicas e/ou ferramentas utilizadas para
+realizar as especificações do projeto.
+
+## Escopo Preliminar e Premissas
+
+> Os requisitos preliminares fornecem uma visão inicial do escopo, funcionalidades-chave e as expectativas a serem atendidas. 
+> 
+> ***A quantidade mínima de requisitos a serem preenchidos nas seções abaixo não incluem os exemplos previamente fornecidos.***
+
+> Com base nas Histórias de Usuário, enumere os requisitos da sua
+> solução. Classifique esses requisitos em dois grupos:
+>
+> - [Requisitos Funcionais (RF)](https://pt.wikipedia.org/wiki/Requisito_funcional):
+>   correspondem a uma funcionalidade que deve estar presente na
+>   plataforma (ex: cadastro de usuário).
+>
+> - [Requisitos Não Funcionais (RNF)](https://pt.wikipedia.org/wiki/Requisito_n%C3%A3o_funcional):
+>   correspondem a uma característica técnica, seja de usabilidade,
+>   desempenho, confiabilidade, segurança ou outro (ex: suporte a
+>   dispositivos iOS e Android).
+>
+> Lembre-se que cada requisito deve corresponder à uma e somente uma
+> característica alvo da sua solução. Além disso, certifique-se de que
+> todos os aspectos capturados nas Histórias de Usuário foram cobertos.
+> 
+> **Links Úteis**:
+> 
+> - [O que são Requisitos Funcionais e Requisitos Não Funcionais?](https://codificar.com.br/requisitos-funcionais-nao-funcionais/)
+> - [O que são requisitos funcionais e requisitos não funcionais?](https://analisederequisitos.com.br/requisitos-funcionais-e-requisitos-nao-funcionais-o-que-sao/)
+
+
+### Requisitos Funcionais
+
+......  ATUALIZE OS REQUISITOS FUNCIONAIS DO SISTEMA (MÍNIMO 10) ......
+
+A tabela a seguir apresenta os requisitos funcionais do projeto. 
+
+|ID    | Descrição do Requisito  | Prioridade |
+|------|-----------------------------------------|-------|
+|RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
+|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
+
+### Requisitos Não Funcionais
+
+......  ATUALIZE OS REQUISITOS NÃO FUNCIONAIS DO SISTEMA (MÍNIMO 5) ......
+
+A tabela a seguir apresenta os requisitos não funcionais do projeto. 
+
+|ID     | Descrição do Requisito                                            |Prioridade |
+|-------|-------------------------------------------------------------------|-----------|
+|RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA     | 
+|RNF-002| Deve processar requisições do usuário em no máximo 3s             | BAIXA     | 
+
+
+### Restrições
+
+......  ATUALIZE AS RESTRIÇÕES DO SISTEMA (MÍNIMO 5) ......
+
+A tabela a seguir apresenta as restrições do projeto. 
+
+|ID    | Descrição do Requisito  | Prioridade |
+|------|-----------------------------------------|-------|
+|RE-001| Permitir que o usuário cadastre tarefas | ALTA | 
+|RE-002| Emitir um relatório de tarefas no mês   | MÉDIA |
+
+
+### Contra-Escopo
+
+......  ATUALIZE O CONTRA-ESCOPO DO SISTEMA (MÍNIMO 5) ......
+
+A tabela a seguir apresenta as atividades que não serão executadas no projeto
+
+|ID    | Descrição do Contra-Escopo          | 
+|------|-------------------------------------|
+|CE-001| Treinamento de modelo de LLM        |
+|CE-002| Pesquisa de viabilidade do mercado. |
+
+### Condições para início do Projeto
+
+......  ATUALIZE AS CONDIÇÕES PARA INÍCIO DOS PROJETOS (MÍNIMO 3) ......
+
+A tabela a seguir, apresente as condições para que o projeto seja iniciado.
+
+|ID    | Descrição de Condições para Início do Projeto    | 
+|------|--------------------------------------------------|
+|CI-001| Assinatura de contrato de prestação de serviços. |
+|CI-002| Apresentação de garantias definidas no contrato. |
+
+-----
+```diff
++ Tarefa 02
++ Fim da seção a ser atualizada.
+```
+-----
 
 # Metodologia
 
@@ -300,14 +330,3 @@ A tabela a seguir apresenta as restrições do projeto.
 
 > Você deve preencher o seguinte documento:
 - [Registro de Partes Interessadas](artefatos/registro-partes-interessadas.xlsx)
-
-## Termo de Abertura do Projeto (TAP)
-
-> O Termo de Abertura do Projeto (TAP) representa o ponto de partida oficial para o empreendimento. 
-> Ele sintetiza de maneira clara e concisa os objetivos, escopo, partes interessadas envolvidas, entregas esperadas, cronograma preliminar e recursos necessários para a execução bem-sucedida do projeto. 
-> O TAP funciona como um contrato inicial entre a equipe do projeto e as partes interessadas, estabelecendo as bases para uma compreensão compartilhada dos propósitos e limites do projeto. 
-> Ao delinear esses elementos de forma detalhada, o Termo de Abertura do Projeto (TAP) fornece uma direção sólida para orientar as atividades subsequentes, facilitando a gestão eficaz do projeto desde o início até o encerramento. 
-> Essa documentação garante a clareza, alinhamento e comprometimento de todos os envolvidos, contribuindo assim para o sucesso do projeto.
-
-> Você deve preencher o seguinte documento:
-> - [Termo de Abertura do Projeto](artefatos/termo-abertura-projeto.docx)
