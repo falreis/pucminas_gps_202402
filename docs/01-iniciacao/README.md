@@ -18,7 +18,7 @@
 - [Partes Interessadas](#partes-interessadas)
   - [Identificação das Partes Interessadas](#identificação-das-partes-interessadas)
   - [Avaliação das Partes Interessadas](#avaliação-das-partes-interessadas)
-- [Termo de Abertura do Projeto (TAP)](#termo-de-abertura-do-projeto-(tap))
+- [Termo de Abertura do Projeto](#termo-de-abertura-do-projeto)
   - [Estimativa de Custo](#estimativa-de-custo)
   - [Estimativa de Prazo](#estimativa-de-prazo)
   - [Escopo Preliminar e Premissas](#escopo-preliminar-e-premissas)
@@ -147,7 +147,7 @@
 ```
 -----
 
-# Termo de Abertura do Projeto (TAP)
+# Termo de Abertura do Projeto
 
 > O Termo de Abertura do Projeto (TAP) representa o ponto de partida oficial para o empreendimento. 
 > Ele sintetiza de maneira clara e concisa os objetivos, escopo, partes interessadas envolvidas, entregas esperadas, cronograma preliminar e recursos necessários para a execução bem-sucedida do projeto. 
