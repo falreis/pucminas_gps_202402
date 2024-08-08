@@ -9,9 +9,9 @@
 # Estrutura do Documento
 
 - [Fase de Planejamento](#planejamento)
+- [Escopo do Projeto](#escopo-do-projeto)
 - [Estrutura Analítica do Projeto](#estrutura-analítica-do-projeto)
 - [Matriz de Responsabilidades](#matriz-de-responsabilidades)
-- [Escopo do Projeto](#escopo-do-projeto)
 - [Cronograma do Projeto](#cronograma-do-projeto)
 - [Orçamento do Projeto](#orçamento-do-projeto)
 - [Planos de Gerenciamento](#planos-de-gerenciamento)
@@ -29,6 +29,21 @@
   - [Plano de Gerência de Comunicação](#plano-de-gerenciamento-de-comunicação)
   - [Plano de Gerenciamento de Riscos](#plano-de-gerenciamento-de-riscos)
 
+-----
+```diff
++ Tarefa 04:
++ Escopo e Estrutura Analítica do Projeto
+```
+
+# Escopo do Projeto
+
+......  COLOQUE AQUI O SEU TEXTO ......
+
+> O escopo do projeto define os limites, objetivos e entregáveis do projeto, estabelecendo clareza sobre o que será realizado e o que está excluído do escopo. 
+> O escopo assegura a alocação adequada de recursos, evita desvios dos objetivos do projeto e garante que as expectativas dos stakeholders sejam atendidas. 
+> A definição do escopo inclui documentação detalhada dos requisitos, restrições e premissas do projeto. 
+> Ao longo do ciclo de vida do projeto, a gestão do escopo também inclui o controle de mudanças, garantindo que qualquer ajuste seja avaliado quanto ao seu impacto e aprovado de maneira adequada. 
+> Utilize como referência a documentação existente na [Fase de Iniciação](/docs/01-iniciacao).
 
 # Estrutura Analítica do Projeto
 
@@ -48,6 +63,11 @@
 > * [Draw.io](https://app.diagrams.net/)
 > * [ProjectLibre](https://www.projectlibre.com/)
 
+```diff
++ Tarefa 04:
++ Fim da seção a ser atualizada.
+```
+
 # Matriz de Responsabilidades
 
 ......  COLOQUE AQUI O SEU TEXTO ......
@@ -64,16 +84,6 @@
 > * **I**nformed    -> Informado (pessoas interessadas no projeto que devem ser informadas sobre a execução).
 > 
 > Link de auxílio: https://www.forbes.com/advisor/business/raci-chart/
-
-# Escopo do Projeto
-
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> O escopo do projeto define os limites, objetivos e entregáveis do projeto, estabelecendo clareza sobre o que será realizado e o que está excluído do escopo. 
-> O escopo assegura a alocação adequada de recursos, evita desvios dos objetivos do projeto e garante que as expectativas dos stakeholders sejam atendidas. 
-> A definição do escopo inclui documentação detalhada dos requisitos, restrições e premissas do projeto. 
-> Ao longo do ciclo de vida do projeto, a gestão do escopo também inclui o controle de mudanças, garantindo que qualquer ajuste seja avaliado quanto ao seu impacto e aprovado de maneira adequada. 
-
 
 # Cronograma do Projeto
 
