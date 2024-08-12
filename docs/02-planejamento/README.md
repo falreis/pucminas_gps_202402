@@ -284,7 +284,7 @@
 > O Plano de Comunicação estabelece estratégias e diretrizes para facilitar a troca de informações entre os membros da equipe e as partes interessadas. 
 > Este plano abrange aspectos como os meios de comunicação, a frequência das atualizações, os canais de distribuição de informações e os responsáveis pela comunicação. 
 > Uma comunicação eficiente não apenas previne mal-entendidos e conflitos, mas também fortalece o engajamento da equipe e o apoio das partes interessadas. 
-
+>
 > Você pode utilizar como referência o seguinte documento:
 - [Plano de Gerenciamento de Comunicação - Editável](artefatos/plano_comunicacao.docx)
 
@@ -303,6 +303,9 @@
 | Relatório de Progresso             |              |                  |             |             |
 | Relatório de Aderência ao Processo |              |                  |             |             |
 | Checklists de Inspeção             |              |                  |             |             |
+|                                    |              |                  |             |             |
+|                                    |              |                  |             |             |
+|                                    |              |                  |             |             |
 
 > Legenda:
 > - Público: a quem se destina a comunicação.
@@ -356,11 +359,45 @@
 > O plano de riscos não apenas destaca os perigos em potencial, mas também estabelece respostas e estratégias de contingência. 
 > Isso inclui a definição de ações preventivas para mitigar riscos antes que se materializem, bem como estratégias de mitigação para minimizar seu impacto se ocorrerem. 
 > Além disso, a identificação de pontos de monitoramento contínuo ao longo do projeto permite uma resposta ágil às mudanças nas condições do ambiente.
+>
+> Você pode utilizar como referência o seguinte documento:
+- [Plano de Gerenciamento de Riscos - Editável](artefatos/plano_riscos.xls)
 
-### Documento Editável
+| Categoria do Risco  | Descrição do Risco | Impacto       | Risco         | Medidas de Prevenção (Contramedidas) | Medidas de Contingência (Mitigação) | 
+|---------------------|--------------------|---------------|---------------|--------------------------------------|-------------------------------------|
+|                     |                    |               |               |                                      |                                     |
+|                     |                    |               |               |                                      |                                     |
+|                     |                    |               |               |                                      |                                     |
+|                     |                    |               |               |                                      |                                     |
+|                     |                    |               |               |                                      |                                     |
+|                     |                    |               |               |                                      |                                     |
+|                     |                    |               |               |                                      |                                     |
+|                     |                    |               |               |                                      |                                     |
+|                     |                    |               |               |                                      |                                     |
+|                     |                    |               |               |                                      |                                     |
 
-> Você deve atualiza o seguinte link (ou link correspondente), como o arquivo editável de geração da WBS:
-- [Plano de Gerenciamento de Riscos - Editável](artefatos/plano_riscos.docx)
+> Indique:
+> Categoria do Risco: *ex.: Cliente, Cronograma, Orçamento, Aquisição de produtos, etc*
+> Descrição do Risco: *ex.: Cliente não aparenta ter muito interesse no projeto*
+> Impacto: *Baixo / Médio / Alto*
+> Risco: *Baixo / Médio / Alto*
+> Medidas de Prevenção: *Medidas que devem ser adotadas para evitar que o risco se concretize*
+> Medidas de Contingência: *Medidas que devem ser adotadas caso o risco se concretize*
+>
+> *Obs.: Para determinar o risco considere a seguinte combinação entre Probabilidade e Impacto:
+
+| Probabilidade | Impacto       | Risco         |
+|---------------|---------------|---------------|
+| Baixo         | Baixo         | Baixo         |
+| Médio         | Médio         | Médio         |
+| Alto          | Alto          | Alto          |
+| Baixo         | Médio         | Médio         |
+| Médio         | Baixo         | Médio         |
+| Baixo         | Alto          | Médio         |
+| Alto          | Baixo         | Médio         |
+| Médio         | Alto          | Alto          |
+| Alto          | Médio         | Alto          |
+
 
 ```diff
 + Tarefa 12:
