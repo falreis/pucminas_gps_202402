@@ -256,8 +256,6 @@
 
 ## Plano de Aquisição
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
 > O Plano de Aquisições define o processo relacionado à aquisição de bens e serviços necessários para a execução do projeto. 
 > Este plano abrange a identificação de necessidades, a seleção de fornecedores, a elaboração de contratos, e a gestão do relacionamento com os fornecedores durante do ciclo de vida do projeto. 
 > O Plano de Aquisições visa garantir a aquisição eficiente e eficaz dos recursos necessários, minimizando riscos e custos. 
@@ -267,6 +265,7 @@
 
 > Você deve atualiza o seguinte link (ou link correspondente), como o arquivo editável de geração da WBS:
 - [Especificação Produto Aquisição - Editável](artefatos/aquisicao_produtos.docx)
+
 
 ```diff
 + Tarefa 10:
@@ -280,17 +279,59 @@
 
 ## Plano de Comunicação
 
-......  COLOQUE AQUI O SEU TEXTO ......
+...... DESCREVA SUCINTAMENTE O PLANO DE COMUNICAÇÃO UTILIZADO NO PROJETO ......
 
 > O Plano de Comunicação estabelece estratégias e diretrizes para facilitar a troca de informações entre os membros da equipe e as partes interessadas. 
 > Este plano abrange aspectos como os meios de comunicação, a frequência das atualizações, os canais de distribuição de informações e os responsáveis pela comunicação. 
 > Uma comunicação eficiente não apenas previne mal-entendidos e conflitos, mas também fortalece o engajamento da equipe e o apoio das partes interessadas. 
 
-### Documento Editável
-
-> Você deve atualiza o seguinte link (ou link correspondente), como o arquivo editável de geração da WBS:
+> Você pode utilizar como referência o seguinte documento:
 - [Plano de Gerenciamento de Comunicação - Editável](artefatos/plano_comunicacao.docx)
 
+### Plano de Comunicação do Projeto
+
+| Entregável                         | Público Alvo | Met. Comunicação | Frequência  | Responsável | 
+|------------------------------------|--------------|------------------|-------------|-------------|
+| Ata de reunião                     |              |                  |             |             |
+| Declaração de escopo               |              |                  |             |             |
+| WBS                                |              |                  |             |             |
+| Dicionário da WBS                  |              |                  |             |             |
+| Cronograma                         |              |                  |             |             |
+| Lista de Riscos                    |              |                  |             |             |
+| Plano de qualidade                 |              |                  |             |             |
+| Plano de projeto                   |              |                  |             |             |
+| Relatório de Progresso             |              |                  |             |             |
+| Relatório de Aderência ao Processo |              |                  |             |             |
+| Checklists de Inspeção             |              |                  |             |             |
+
+> Legenda:
+> - Público: a quem se destina a comunicação.
+> - Método de Comunicação: e_mail, reunião presencial, reunião virtual, etc.
+> - Freqüência: diária, semanal, quinzenal, mensal, etc.
+> - Responsável: pessoa responsável pela comunicação.
+
+### Plano de Gerência de Comunicação
+
+> Indique:
+> - Ferramentas utilizadas no projeto - adicionar link de acesso às ferramentas
+> - Papéis: responsáveis pelas correspondentes no projeto
+> - Princípios gerais: indica quais princípios serão adotados no plano de comunicação, como clareza, objetividade, impessoalidade, imparcialidade e cordialidade. Detalhar.
+>
+> Plano de Gerência de Configuração: definir, em linhas gerais, como (ferramenta) serão controladas e distribuídas as versões e se haverá algum controle de responsabilidades.
+
+- Ferramentas utilizadas:
+- - [Ferramenta 01](https://pucminas.br)
+  - [Ferramenta 02](https://pucminas.br)
+  - [Ferramenta 03](https://pucminas.br)
+- Papéis:
+- - ...
+  - ...
+  - ...
+- Princípios gerais
+- - ...
+  - ...
+  - ...
+  - ...
 
 ```diff
 + Tarefa 11:
